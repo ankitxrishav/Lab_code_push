@@ -1,0 +1,1001 @@
+transaction_id,user_id,timestamp,amount,location,rule1_fraud,rule2_fraud,hour,rule3_fraud,is_fraudulent,fraud_label
+1,User_000,2025-01-16 02:39:07.447885,5938,new york,False,False,2,True,False,Legitimate
+4,User_000,2025-01-16 06:31:30.447885,90631,new york,False,False,6,False,False,Legitimate
+6,User_000,2025-01-16 06:53:06.447885,4333,new york,False,False,6,False,False,Legitimate
+3,User_000,2025-01-16 16:24:31.447885,93023,new york,False,False,16,False,False,Legitimate
+5,User_000,2025-01-16 16:51:53.447885,283869,new york,True,False,16,False,False,Legitimate
+2,User_000,2025-01-16 19:53:03.447885,46714,gwalior,False,True,19,False,False,Legitimate
+8,User_000,2025-01-17 03:08:45.447885,64839,new york,False,False,3,True,False,Legitimate
+17,User_000,2025-01-17 06:45:24.447885,218820,new york,True,False,6,False,False,Legitimate
+7,User_000,2025-01-17 07:49:16.447885,24308,new york,False,False,7,False,False,Legitimate
+11,User_000,2025-01-17 11:48:37.447885,66500,new york,False,False,11,False,False,Legitimate
+15,User_000,2025-01-17 13:16:28.447885,77278,new york,False,False,13,False,False,Legitimate
+18,User_000,2025-01-17 13:43:44.447885,15734,new york,False,False,13,False,False,Legitimate
+10,User_000,2025-01-17 13:52:43.447885,439943,new york,True,False,13,False,False,Legitimate
+16,User_000,2025-01-17 15:13:22.447885,84217,patna,False,True,15,False,False,Legitimate
+9,User_000,2025-01-17 16:59:32.447885,37298,new york,False,False,16,False,False,Legitimate
+13,User_000,2025-01-17 19:20:08.447885,90990,kolkata,False,True,19,False,False,Legitimate
+20,User_000,2025-01-17 21:11:07.447885,56537,new york,False,False,21,False,False,Legitimate
+14,User_000,2025-01-17 21:27:42.447885,92435,deharadhun,False,True,21,False,False,Legitimate
+19,User_000,2025-01-17 22:03:47.447885,42728,new york,False,False,22,False,False,Legitimate
+12,User_000,2025-01-17 22:09:20.447885,95518,new york,False,False,22,False,False,Legitimate
+22,User_001,2025-01-16 06:12:07.447885,9355,kolkata,False,False,6,False,False,Legitimate
+23,User_001,2025-01-16 10:16:04.447885,60621,kolkata,False,False,10,False,False,Legitimate
+21,User_001,2025-01-16 14:28:47.447885,58278,kolkata,False,False,14,False,False,Legitimate
+25,User_001,2025-01-16 15:21:22.447885,67724,new york,False,True,15,False,False,Legitimate
+24,User_001,2025-01-16 18:04:19.447885,89364,kolkata,False,False,18,False,False,Legitimate
+26,User_001,2025-01-16 21:48:47.447885,91870,kolkata,False,False,21,False,False,Legitimate
+32,User_001,2025-01-17 02:24:50.447885,72058,new york,False,False,2,True,False,Legitimate
+31,User_001,2025-01-17 06:38:40.447885,24706,kolkata,False,False,6,False,False,Legitimate
+29,User_001,2025-01-17 13:48:42.447885,47736,kolkata,False,False,13,False,False,Legitimate
+30,User_001,2025-01-17 14:53:13.447885,141459,kolkata,True,False,14,False,False,Legitimate
+39,User_001,2025-01-17 15:01:48.447885,13645,kolkata,False,False,15,False,False,Legitimate
+34,User_001,2025-01-17 16:35:13.447885,63884,kolkata,False,False,16,False,False,Legitimate
+33,User_001,2025-01-17 16:45:50.447885,19189,gwalior,False,True,16,False,False,Legitimate
+28,User_001,2025-01-17 16:52:22.447885,10607,kolkata,False,False,16,False,False,Legitimate
+36,User_001,2025-01-17 17:36:17.447885,57905,patna,False,True,17,False,False,Legitimate
+40,User_001,2025-01-17 19:36:28.447885,35287,kolkata,False,False,19,False,False,Legitimate
+35,User_001,2025-01-17 21:49:04.447885,66377,kolkata,False,False,21,False,False,Legitimate
+37,User_001,2025-01-17 21:55:35.447885,79193,kolkata,False,False,21,False,False,Legitimate
+27,User_001,2025-01-17 22:12:44.447885,411271,kolkata,True,False,22,False,False,Legitimate
+38,User_001,2025-01-17 22:55:38.447885,429732,kolkata,True,False,22,False,False,Legitimate
+43,User_002,2025-01-16 07:24:15.447885,37225,new york,False,False,7,False,False,Legitimate
+41,User_002,2025-01-16 08:45:25.447885,19700,kolkata,False,False,8,False,False,Legitimate
+49,User_002,2025-01-16 10:46:22.447885,51329,kolkata,False,False,10,False,False,Legitimate
+44,User_002,2025-01-16 11:44:40.447885,85061,bhopal,False,True,11,False,False,Legitimate
+46,User_002,2025-01-16 17:31:37.447885,14269,kolkata,False,False,17,False,False,Legitimate
+45,User_002,2025-01-16 18:09:53.447885,98386,kolkata,False,False,18,False,False,Legitimate
+47,User_002,2025-01-16 18:17:38.447885,39771,kolkata,False,False,18,False,False,Legitimate
+42,User_002,2025-01-16 18:42:50.447885,11886,kolkata,False,False,18,False,False,Legitimate
+48,User_002,2025-01-16 21:26:01.447885,51836,kolkata,False,False,21,False,False,Legitimate
+58,User_002,2025-01-17 04:57:08.447885,38216,kolkata,False,False,4,True,False,Legitimate
+51,User_002,2025-01-17 08:11:29.447885,34669,kolkata,False,False,8,False,False,Legitimate
+56,User_002,2025-01-17 10:03:29.447885,278829,noida,True,True,10,False,True,Fraudulent
+52,User_002,2025-01-17 10:28:39.447885,69204,kolkata,False,False,10,False,False,Legitimate
+57,User_002,2025-01-17 12:59:30.447885,41365,kolkata,False,False,12,False,False,Legitimate
+53,User_002,2025-01-17 13:12:11.447885,72336,kolkata,False,False,13,False,False,Legitimate
+54,User_002,2025-01-17 14:42:03.447885,47034,kolkata,False,False,14,False,False,Legitimate
+59,User_002,2025-01-17 16:54:19.447885,70211,kolkata,False,False,16,False,False,Legitimate
+60,User_002,2025-01-17 18:52:37.447885,97651,kolkata,False,False,18,False,False,Legitimate
+55,User_002,2025-01-17 20:11:12.447885,92753,kolkata,False,False,20,False,False,Legitimate
+50,User_002,2025-01-17 21:50:02.447885,58773,kolkata,False,False,21,False,False,Legitimate
+65,User_003,2025-01-16 02:49:39.447885,63552,jaipur,False,False,2,True,False,Legitimate
+62,User_003,2025-01-16 07:04:49.447885,8444,jaipur,False,False,7,False,False,Legitimate
+63,User_003,2025-01-16 10:37:10.447885,81781,jaipur,False,False,10,False,False,Legitimate
+64,User_003,2025-01-16 11:06:30.447885,84794,jaipur,False,False,11,False,False,Legitimate
+66,User_003,2025-01-16 18:08:40.447885,361936,bhopal,True,True,18,False,True,Fraudulent
+61,User_003,2025-01-16 21:45:37.447885,23029,bhopal,False,False,21,False,False,Legitimate
+78,User_003,2025-01-17 02:12:55.447885,93110,jaipur,False,False,2,True,False,Legitimate
+69,User_003,2025-01-17 03:02:25.447885,97894,jaipur,False,False,3,True,False,Legitimate
+73,User_003,2025-01-17 03:03:35.447885,81244,new york,False,True,3,True,True,Fraudulent
+71,User_003,2025-01-17 07:22:14.447885,41419,jaipur,False,False,7,False,False,Legitimate
+79,User_003,2025-01-17 09:46:31.447885,21310,jaipur,False,False,9,False,False,Legitimate
+75,User_003,2025-01-17 11:20:25.447885,13021,jaipur,False,False,11,False,False,Legitimate
+72,User_003,2025-01-17 12:55:49.447885,34729,delhi,False,True,12,False,False,Legitimate
+67,User_003,2025-01-17 14:53:12.447885,64493,jaipur,False,False,14,False,False,Legitimate
+74,User_003,2025-01-17 15:18:23.447885,65087,gwalior,False,True,15,False,False,Legitimate
+68,User_003,2025-01-17 16:33:22.447885,5626,jaipur,False,False,16,False,False,Legitimate
+77,User_003,2025-01-17 18:33:11.447885,10156,jaipur,False,False,18,False,False,Legitimate
+70,User_003,2025-01-17 21:27:50.447885,76950,jaipur,False,False,21,False,False,Legitimate
+76,User_003,2025-01-17 21:29:24.447885,21779,deharadhun,False,True,21,False,False,Legitimate
+80,User_003,2025-01-18 19:02:50.447885,21676,jaipur,False,False,19,False,False,Legitimate
+84,User_004,2025-01-16 02:53:06.447885,40748,gwalior,False,False,2,True,False,Legitimate
+86,User_004,2025-01-16 07:56:18.447885,61461,mumbai,False,False,7,False,False,Legitimate
+85,User_004,2025-01-16 10:56:17.447885,36648,gwalior,False,False,10,False,False,Legitimate
+83,User_004,2025-01-16 15:07:56.447885,54683,gwalior,False,False,15,False,False,Legitimate
+81,User_004,2025-01-16 20:54:42.447885,63022,gwalior,False,False,20,False,False,Legitimate
+82,User_004,2025-01-16 21:14:15.447885,23301,gwalior,False,False,21,False,False,Legitimate
+89,User_004,2025-01-17 03:45:50.447885,92230,gwalior,False,False,3,True,False,Legitimate
+90,User_004,2025-01-17 06:08:28.447885,91371,gwalior,False,False,6,False,False,Legitimate
+97,User_004,2025-01-17 06:15:32.447885,76753,gwalior,False,False,6,False,False,Legitimate
+98,User_004,2025-01-17 07:29:06.447885,19456,gwalior,False,False,7,False,False,Legitimate
+91,User_004,2025-01-17 12:39:27.447885,90022,new york,False,True,12,False,False,Legitimate
+95,User_004,2025-01-17 14:10:04.447885,19513,gwalior,False,False,14,False,False,Legitimate
+96,User_004,2025-01-17 14:14:54.447885,451853,gwalior,True,False,14,False,False,Legitimate
+94,User_004,2025-01-17 15:17:37.447885,387971,gwalior,True,False,15,False,False,Legitimate
+93,User_004,2025-01-17 16:24:50.447885,88575,gwalior,False,False,16,False,False,Legitimate
+88,User_004,2025-01-17 16:36:27.447885,58098,kolkata,False,True,16,False,False,Legitimate
+100,User_004,2025-01-17 18:07:13.447885,95077,gwalior,False,False,18,False,False,Legitimate
+99,User_004,2025-01-17 19:16:44.447885,80058,gwalior,False,False,19,False,False,Legitimate
+87,User_004,2025-01-17 20:11:34.447885,66542,patna,False,True,20,False,False,Legitimate
+92,User_004,2025-01-17 21:32:45.447885,2196,gwalior,False,False,21,False,False,Legitimate
+107,User_005,2025-01-16 04:51:53.447885,52106,new york,False,False,4,True,False,Legitimate
+101,User_005,2025-01-16 10:50:35.447885,42497,new york,False,False,10,False,False,Legitimate
+102,User_005,2025-01-16 13:35:49.447885,69219,new york,False,False,13,False,False,Legitimate
+106,User_005,2025-01-16 13:55:07.447885,467094,kolkata,True,True,13,False,True,Fraudulent
+103,User_005,2025-01-16 17:27:42.447885,39041,new york,False,False,17,False,False,Legitimate
+105,User_005,2025-01-16 20:49:14.447885,2563,new york,False,False,20,False,False,Legitimate
+104,User_005,2025-01-16 20:56:19.447885,217557,new york,True,False,20,False,False,Legitimate
+114,User_005,2025-01-17 02:44:59.447885,81506,deharadhun,False,True,2,True,True,Fraudulent
+117,User_005,2025-01-17 03:05:55.447885,55725,new york,False,False,3,True,False,Legitimate
+119,User_005,2025-01-17 03:25:25.447885,81575,new york,False,False,3,True,False,Legitimate
+112,User_005,2025-01-17 03:57:29.447885,47878,new york,False,False,3,True,False,Legitimate
+120,User_005,2025-01-17 06:15:57.447885,74364,new york,False,False,6,False,False,Legitimate
+116,User_005,2025-01-17 06:24:19.447885,96820,new york,False,False,6,False,False,Legitimate
+109,User_005,2025-01-17 10:05:48.447885,48255,new york,False,False,10,False,False,Legitimate
+118,User_005,2025-01-17 13:33:14.447885,32484,jaipur,False,True,13,False,False,Legitimate
+115,User_005,2025-01-17 17:31:58.447885,86782,new york,False,False,17,False,False,Legitimate
+108,User_005,2025-01-17 18:04:09.447885,44970,new york,False,False,18,False,False,Legitimate
+110,User_005,2025-01-17 19:57:40.447885,98446,new york,False,False,19,False,False,Legitimate
+113,User_005,2025-01-17 22:14:30.447885,95798,new york,False,False,22,False,False,Legitimate
+111,User_005,2025-01-17 22:48:23.447885,37105,new york,False,False,22,False,False,Legitimate
+126,User_006,2025-01-16 02:36:41.447885,61012,delhi,False,False,2,True,False,Legitimate
+124,User_006,2025-01-16 03:22:30.447885,24232,patna,False,False,3,True,False,Legitimate
+125,User_006,2025-01-16 11:16:16.447885,92818,delhi,False,False,11,False,False,Legitimate
+123,User_006,2025-01-16 18:01:26.447885,22229,delhi,False,False,18,False,False,Legitimate
+122,User_006,2025-01-16 18:21:05.447885,81965,delhi,False,False,18,False,False,Legitimate
+121,User_006,2025-01-16 19:01:46.447885,8462,delhi,False,False,19,False,False,Legitimate
+134,User_006,2025-01-17 02:46:11.447885,87385,patna,False,True,2,True,True,Fraudulent
+127,User_006,2025-01-17 03:29:31.447885,81064,delhi,False,False,3,True,False,Legitimate
+137,User_006,2025-01-17 06:43:48.447885,30755,delhi,False,False,6,False,False,Legitimate
+131,User_006,2025-01-17 08:51:18.447885,49141,mumbai,False,True,8,False,False,Legitimate
+129,User_006,2025-01-17 10:06:51.447885,129047,delhi,True,False,10,False,False,Legitimate
+128,User_006,2025-01-17 10:32:32.447885,16532,delhi,False,False,10,False,False,Legitimate
+136,User_006,2025-01-17 11:45:25.447885,131683,mumbai,True,False,11,False,False,Legitimate
+139,User_006,2025-01-17 11:46:22.447885,21604,delhi,False,False,11,False,False,Legitimate
+138,User_006,2025-01-17 13:17:58.447885,87244,delhi,False,False,13,False,False,Legitimate
+130,User_006,2025-01-17 14:32:52.447885,33951,delhi,False,False,14,False,False,Legitimate
+135,User_006,2025-01-17 15:48:36.447885,56310,delhi,False,False,15,False,False,Legitimate
+140,User_006,2025-01-17 20:11:21.447885,92106,delhi,False,False,20,False,False,Legitimate
+133,User_006,2025-01-17 21:30:06.447885,69644,delhi,False,False,21,False,False,Legitimate
+132,User_006,2025-01-17 22:28:46.447885,25466,bhopal,False,True,22,False,False,Legitimate
+146,User_007,2025-01-16 02:40:28.447885,399511,deharadhun,True,False,2,True,True,Fraudulent
+143,User_007,2025-01-16 06:14:55.447885,4187,bhopal,False,False,6,False,False,Legitimate
+144,User_007,2025-01-16 12:22:23.447885,68254,bhopal,False,False,12,False,False,Legitimate
+141,User_007,2025-01-16 15:44:13.447885,83096,bhopal,False,False,15,False,False,Legitimate
+142,User_007,2025-01-16 16:10:16.447885,23205,bhopal,False,False,16,False,False,Legitimate
+145,User_007,2025-01-16 18:08:44.447885,94717,bhopal,False,False,18,False,False,Legitimate
+157,User_007,2025-01-17 03:03:04.447885,32621,bhopal,False,False,3,True,False,Legitimate
+148,User_007,2025-01-17 03:59:06.447885,18231,bhopal,False,False,3,True,False,Legitimate
+152,User_007,2025-01-17 06:30:43.447885,4754,patna,False,True,6,False,False,Legitimate
+150,User_007,2025-01-17 06:36:53.447885,67934,bhopal,False,False,6,False,False,Legitimate
+156,User_007,2025-01-17 07:46:59.447885,50792,bhopal,False,False,7,False,False,Legitimate
+155,User_007,2025-01-17 08:36:44.447885,97209,bhopal,False,False,8,False,False,Legitimate
+153,User_007,2025-01-17 17:08:29.447885,79609,bhopal,False,False,17,False,False,Legitimate
+154,User_007,2025-01-17 17:41:37.447885,181344,bhopal,True,False,17,False,False,Legitimate
+147,User_007,2025-01-17 19:54:33.447885,76572,bhopal,False,False,19,False,False,Legitimate
+158,User_007,2025-01-17 20:46:54.447885,38453,bhopal,False,False,20,False,False,Legitimate
+151,User_007,2025-01-17 21:11:39.447885,7448,bhopal,False,False,21,False,False,Legitimate
+149,User_007,2025-01-17 22:53:54.447885,47025,bhopal,False,False,22,False,False,Legitimate
+159,User_007,2025-01-18 08:58:45.447885,37004,bhopal,False,False,8,False,False,Legitimate
+160,User_007,2025-01-18 09:25:50.447885,66199,bhopal,False,False,9,False,False,Legitimate
+165,User_008,2025-01-16 02:47:28.447885,58892,jaipur,False,False,2,True,False,Legitimate
+164,User_008,2025-01-16 09:29:47.447885,81741,patna,False,False,9,False,False,Legitimate
+166,User_008,2025-01-16 12:00:34.447885,34809,patna,False,False,12,False,False,Legitimate
+162,User_008,2025-01-16 16:53:50.447885,16344,patna,False,False,16,False,False,Legitimate
+163,User_008,2025-01-16 18:18:50.447885,71383,noida,False,True,18,False,False,Legitimate
+161,User_008,2025-01-16 22:58:36.447885,81790,patna,False,False,22,False,False,Legitimate
+167,User_008,2025-01-17 03:28:57.447885,436624,patna,True,False,3,True,True,Fraudulent
+168,User_008,2025-01-17 03:37:14.447885,4829,patna,False,False,3,True,False,Legitimate
+177,User_008,2025-01-17 04:10:47.447885,462977,patna,True,False,4,True,True,Fraudulent
+180,User_008,2025-01-17 04:51:10.447885,49101,patna,False,False,4,True,False,Legitimate
+174,User_008,2025-01-17 06:57:50.447885,93670,patna,False,False,6,False,False,Legitimate
+175,User_008,2025-01-17 09:01:32.447885,90527,patna,False,False,9,False,False,Legitimate
+170,User_008,2025-01-17 09:34:27.447885,58253,patna,False,False,9,False,False,Legitimate
+173,User_008,2025-01-17 11:31:33.447885,50838,noida,False,True,11,False,False,Legitimate
+176,User_008,2025-01-17 11:34:20.447885,27580,patna,False,False,11,False,False,Legitimate
+169,User_008,2025-01-17 11:44:21.447885,16077,patna,False,False,11,False,False,Legitimate
+179,User_008,2025-01-17 12:44:02.447885,64253,patna,False,False,12,False,False,Legitimate
+178,User_008,2025-01-17 14:37:49.447885,45297,patna,False,False,14,False,False,Legitimate
+171,User_008,2025-01-17 15:42:39.447885,452439,patna,True,False,15,False,False,Legitimate
+172,User_008,2025-01-17 22:41:31.447885,92922,delhi,False,True,22,False,False,Legitimate
+183,User_009,2025-01-16 02:17:32.447885,90922,gwalior,False,False,2,True,False,Legitimate
+186,User_009,2025-01-16 04:26:17.447885,83493,gwalior,False,False,4,True,False,Legitimate
+185,User_009,2025-01-16 04:39:38.447885,78870,gwalior,False,False,4,True,False,Legitimate
+181,User_009,2025-01-16 09:25:14.447885,2219,gwalior,False,False,9,False,False,Legitimate
+182,User_009,2025-01-16 10:30:36.447885,56713,gwalior,False,False,10,False,False,Legitimate
+184,User_009,2025-01-16 11:19:24.447885,84979,gwalior,False,False,11,False,False,Legitimate
+200,User_009,2025-01-17 02:13:40.447885,62277,gwalior,False,False,2,True,False,Legitimate
+192,User_009,2025-01-17 03:49:51.447885,39394,jaipur,False,True,3,True,True,Fraudulent
+188,User_009,2025-01-17 04:09:36.447885,83056,gwalior,False,False,4,True,False,Legitimate
+190,User_009,2025-01-17 04:57:52.447885,84931,delhi,False,True,4,True,True,Fraudulent
+193,User_009,2025-01-17 07:07:17.447885,92245,delhi,False,False,7,False,False,Legitimate
+195,User_009,2025-01-17 12:46:09.447885,29731,gwalior,False,False,12,False,False,Legitimate
+199,User_009,2025-01-17 14:01:19.447885,4415,gwalior,False,False,14,False,False,Legitimate
+191,User_009,2025-01-17 14:44:15.447885,46452,gwalior,False,False,14,False,False,Legitimate
+194,User_009,2025-01-17 15:05:54.447885,87601,gwalior,False,False,15,False,False,Legitimate
+189,User_009,2025-01-17 15:54:35.447885,63859,gwalior,False,False,15,False,False,Legitimate
+197,User_009,2025-01-17 16:39:14.447885,25822,gwalior,False,False,16,False,False,Legitimate
+187,User_009,2025-01-17 19:59:25.447885,99134,gwalior,False,False,19,False,False,Legitimate
+196,User_009,2025-01-17 20:00:52.447885,7765,gwalior,False,False,20,False,False,Legitimate
+198,User_009,2025-01-17 20:52:09.447885,66237,gwalior,False,False,20,False,False,Legitimate
+207,User_010,2025-01-16 04:47:51.447885,12012,gwalior,False,False,4,True,False,Legitimate
+206,User_010,2025-01-16 07:17:41.447885,50854,gwalior,False,False,7,False,False,Legitimate
+208,User_010,2025-01-16 08:32:31.447885,27280,gwalior,False,False,8,False,False,Legitimate
+203,User_010,2025-01-16 13:57:43.447885,64336,kolkata,False,True,13,False,False,Legitimate
+209,User_010,2025-01-16 15:50:26.447885,28278,gwalior,False,False,15,False,False,Legitimate
+202,User_010,2025-01-16 18:20:19.447885,44534,delhi,False,True,18,False,False,Legitimate
+210,User_010,2025-01-16 19:00:22.447885,37020,noida,False,True,19,False,False,Legitimate
+204,User_010,2025-01-16 20:49:30.447885,19160,gwalior,False,False,20,False,False,Legitimate
+205,User_010,2025-01-16 21:56:34.447885,17805,gwalior,False,False,21,False,False,Legitimate
+201,User_010,2025-01-16 22:56:30.447885,11118,bhopal,False,True,22,False,False,Legitimate
+214,User_010,2025-01-17 04:55:42.447885,86061,gwalior,False,False,4,True,False,Legitimate
+212,User_010,2025-01-17 10:55:21.447885,31766,patna,False,True,10,False,False,Legitimate
+218,User_010,2025-01-17 12:14:03.447885,89524,gwalior,False,False,12,False,False,Legitimate
+219,User_010,2025-01-17 12:42:23.447885,342809,gwalior,True,False,12,False,False,Legitimate
+211,User_010,2025-01-17 14:15:39.447885,66943,gwalior,False,False,14,False,False,Legitimate
+216,User_010,2025-01-17 15:26:49.447885,72136,jaipur,False,True,15,False,False,Legitimate
+213,User_010,2025-01-17 15:43:15.447885,34276,gwalior,False,False,15,False,False,Legitimate
+215,User_010,2025-01-17 17:10:34.447885,94585,gwalior,False,False,17,False,False,Legitimate
+217,User_010,2025-01-17 18:53:08.447885,94431,kolkata,False,True,18,False,False,Legitimate
+220,User_010,2025-01-17 22:58:51.447885,91539,gwalior,False,False,22,False,False,Legitimate
+223,User_011,2025-01-16 03:56:35.447885,29203,patna,False,False,3,True,False,Legitimate
+226,User_011,2025-01-16 12:03:28.447885,57189,bhopal,False,False,12,False,False,Legitimate
+225,User_011,2025-01-16 15:09:48.447885,72619,patna,False,False,15,False,False,Legitimate
+221,User_011,2025-01-16 15:38:46.447885,53775,patna,False,False,15,False,False,Legitimate
+227,User_011,2025-01-16 16:41:51.447885,5414,patna,False,False,16,False,False,Legitimate
+222,User_011,2025-01-16 20:26:34.447885,17661,patna,False,False,20,False,False,Legitimate
+224,User_011,2025-01-16 22:01:27.447885,44149,patna,False,False,22,False,False,Legitimate
+237,User_011,2025-01-17 02:01:52.447885,93837,patna,False,False,2,True,False,Legitimate
+229,User_011,2025-01-17 04:36:48.447885,63482,patna,False,False,4,True,False,Legitimate
+228,User_011,2025-01-17 06:54:38.447885,91258,patna,False,False,6,False,False,Legitimate
+233,User_011,2025-01-17 08:11:44.447885,23569,patna,False,False,8,False,False,Legitimate
+235,User_011,2025-01-17 11:54:26.447885,26247,patna,False,False,11,False,False,Legitimate
+236,User_011,2025-01-17 15:10:18.447885,193682,patna,True,False,15,False,False,Legitimate
+232,User_011,2025-01-17 17:58:05.447885,38762,patna,False,False,17,False,False,Legitimate
+230,User_011,2025-01-17 18:24:36.447885,50313,patna,False,False,18,False,False,Legitimate
+240,User_011,2025-01-17 18:42:27.447885,80221,patna,False,False,18,False,False,Legitimate
+238,User_011,2025-01-17 18:55:39.447885,240989,bhopal,True,True,18,False,True,Fraudulent
+231,User_011,2025-01-17 19:18:16.447885,88579,patna,False,False,19,False,False,Legitimate
+239,User_011,2025-01-17 20:42:57.447885,98078,bhopal,False,False,20,False,False,Legitimate
+234,User_011,2025-01-17 22:04:36.447885,89962,patna,False,False,22,False,False,Legitimate
+243,User_012,2025-01-16 08:09:36.447885,32298,bhopal,False,False,8,False,False,Legitimate
+244,User_012,2025-01-16 10:53:35.447885,32654,kolkata,False,False,10,False,False,Legitimate
+242,User_012,2025-01-16 16:57:46.447885,35606,new york,False,False,16,False,False,Legitimate
+245,User_012,2025-01-16 20:07:01.447885,209638,bhopal,True,False,20,False,False,Legitimate
+241,User_012,2025-01-16 20:29:14.447885,26084,bhopal,False,False,20,False,False,Legitimate
+250,User_012,2025-01-17 07:20:32.447885,474979,bhopal,True,False,7,False,False,Legitimate
+249,User_012,2025-01-17 09:00:00.447885,49628,bhopal,False,False,9,False,False,Legitimate
+253,User_012,2025-01-17 09:48:42.447885,2753,bhopal,False,False,9,False,False,Legitimate
+256,User_012,2025-01-17 10:11:40.447885,44768,kolkata,False,True,10,False,False,Legitimate
+257,User_012,2025-01-17 10:18:14.447885,29254,bhopal,False,False,10,False,False,Legitimate
+248,User_012,2025-01-17 12:57:10.447885,58756,bhopal,False,False,12,False,False,Legitimate
+252,User_012,2025-01-17 12:59:08.447885,14103,bhopal,False,False,12,False,False,Legitimate
+254,User_012,2025-01-17 13:03:09.447885,382360,bhopal,True,False,13,False,False,Legitimate
+258,User_012,2025-01-17 13:58:37.447885,25500,bhopal,False,False,13,False,False,Legitimate
+246,User_012,2025-01-17 17:01:04.447885,97130,noida,False,True,17,False,False,Legitimate
+255,User_012,2025-01-17 20:50:35.447885,28649,bhopal,False,False,20,False,False,Legitimate
+251,User_012,2025-01-17 21:26:18.447885,83645,bhopal,False,False,21,False,False,Legitimate
+247,User_012,2025-01-17 22:55:36.447885,16931,bhopal,False,False,22,False,False,Legitimate
+260,User_012,2025-01-18 17:07:51.447885,19843,bhopal,False,False,17,False,False,Legitimate
+259,User_012,2025-01-18 22:37:19.447885,95233,bhopal,False,False,22,False,False,Legitimate
+262,User_013,2025-01-16 06:53:22.447885,39237,new york,False,False,6,False,False,Legitimate
+264,User_013,2025-01-16 07:38:47.447885,24689,mumbai,False,False,7,False,False,Legitimate
+265,User_013,2025-01-16 08:57:11.447885,4435,noida,False,False,8,False,False,Legitimate
+263,User_013,2025-01-16 11:22:24.447885,255946,new york,True,False,11,False,False,Legitimate
+261,User_013,2025-01-16 21:12:57.447885,96670,new york,False,False,21,False,False,Legitimate
+276,User_013,2025-01-17 04:19:13.447885,54504,new york,False,False,4,True,False,Legitimate
+271,User_013,2025-01-17 06:07:54.447885,40236,new york,False,False,6,False,False,Legitimate
+274,User_013,2025-01-17 08:11:11.447885,82467,new york,False,False,8,False,False,Legitimate
+278,User_013,2025-01-17 12:00:26.447885,11972,new york,False,False,12,False,False,Legitimate
+273,User_013,2025-01-17 12:15:15.447885,42215,new york,False,False,12,False,False,Legitimate
+275,User_013,2025-01-17 12:30:52.447885,94999,new york,False,False,12,False,False,Legitimate
+277,User_013,2025-01-17 13:12:32.447885,12630,deharadhun,False,True,13,False,False,Legitimate
+279,User_013,2025-01-17 13:46:59.447885,73952,new york,False,False,13,False,False,Legitimate
+268,User_013,2025-01-17 14:07:50.447885,7221,new york,False,False,14,False,False,Legitimate
+272,User_013,2025-01-17 16:08:54.447885,190583,new york,True,False,16,False,False,Legitimate
+269,User_013,2025-01-17 17:48:10.447885,2060,new york,False,False,17,False,False,Legitimate
+270,User_013,2025-01-17 20:43:45.447885,95354,new york,False,False,20,False,False,Legitimate
+266,User_013,2025-01-17 20:52:36.447885,99982,new york,False,False,20,False,False,Legitimate
+280,User_013,2025-01-17 21:54:15.447885,59751,kolkata,False,True,21,False,False,Legitimate
+267,User_013,2025-01-17 22:23:42.447885,19113,bhopal,False,True,22,False,False,Legitimate
+283,User_014,2025-01-16 02:47:35.447885,47978,jaipur,False,False,2,True,False,Legitimate
+284,User_014,2025-01-16 03:40:16.447885,55005,jaipur,False,False,3,True,False,Legitimate
+287,User_014,2025-01-16 06:03:12.447885,299085,jaipur,True,False,6,False,False,Legitimate
+281,User_014,2025-01-16 10:49:26.447885,96519,jaipur,False,False,10,False,False,Legitimate
+285,User_014,2025-01-16 13:24:17.447885,99416,jaipur,False,False,13,False,False,Legitimate
+282,User_014,2025-01-16 16:02:33.447885,60744,jaipur,False,False,16,False,False,Legitimate
+286,User_014,2025-01-16 17:30:29.447885,14046,jaipur,False,False,17,False,False,Legitimate
+291,User_014,2025-01-17 02:14:19.447885,476561,jaipur,True,False,2,True,True,Fraudulent
+289,User_014,2025-01-17 06:15:28.447885,70795,jaipur,False,False,6,False,False,Legitimate
+288,User_014,2025-01-17 09:55:22.447885,35196,jaipur,False,False,9,False,False,Legitimate
+298,User_014,2025-01-17 13:33:26.447885,6169,jaipur,False,False,13,False,False,Legitimate
+293,User_014,2025-01-17 15:32:05.447885,60479,jaipur,False,False,15,False,False,Legitimate
+296,User_014,2025-01-17 15:52:44.447885,31836,jaipur,False,False,15,False,False,Legitimate
+300,User_014,2025-01-17 16:02:05.447885,15177,jaipur,False,False,16,False,False,Legitimate
+297,User_014,2025-01-17 16:05:43.447885,15320,jaipur,False,False,16,False,False,Legitimate
+295,User_014,2025-01-17 16:32:20.447885,74169,noida,False,True,16,False,False,Legitimate
+294,User_014,2025-01-17 18:35:07.447885,88769,noida,False,False,18,False,False,Legitimate
+290,User_014,2025-01-17 19:05:41.447885,79937,jaipur,False,False,19,False,False,Legitimate
+292,User_014,2025-01-17 19:44:13.447885,26586,jaipur,False,False,19,False,False,Legitimate
+299,User_014,2025-01-17 22:58:05.447885,221751,gwalior,True,True,22,False,True,Fraudulent
+303,User_015,2025-01-16 03:12:37.447885,34082,gwalior,False,False,3,True,False,Legitimate
+302,User_015,2025-01-16 04:25:44.447885,97400,gwalior,False,False,4,True,False,Legitimate
+306,User_015,2025-01-16 12:19:31.447885,71341,gwalior,False,False,12,False,False,Legitimate
+301,User_015,2025-01-16 12:36:17.447885,92502,patna,False,True,12,False,False,Legitimate
+304,User_015,2025-01-16 13:12:37.447885,68615,gwalior,False,False,13,False,False,Legitimate
+305,User_015,2025-01-16 17:45:19.447885,274789,gwalior,True,False,17,False,False,Legitimate
+309,User_015,2025-01-17 04:58:13.447885,362209,noida,True,True,4,True,True,Fraudulent
+319,User_015,2025-01-17 06:25:47.447885,43073,gwalior,False,False,6,False,False,Legitimate
+313,User_015,2025-01-17 08:15:30.447885,38068,gwalior,False,False,8,False,False,Legitimate
+315,User_015,2025-01-17 08:42:01.447885,1124,gwalior,False,False,8,False,False,Legitimate
+312,User_015,2025-01-17 09:25:28.447885,57958,gwalior,False,False,9,False,False,Legitimate
+308,User_015,2025-01-17 10:30:06.447885,363539,gwalior,True,False,10,False,False,Legitimate
+311,User_015,2025-01-17 11:47:48.447885,15971,mumbai,False,True,11,False,False,Legitimate
+316,User_015,2025-01-17 13:53:44.447885,97847,gwalior,False,False,13,False,False,Legitimate
+314,User_015,2025-01-17 14:31:07.447885,12908,gwalior,False,False,14,False,False,Legitimate
+317,User_015,2025-01-17 15:05:57.447885,53557,gwalior,False,False,15,False,False,Legitimate
+307,User_015,2025-01-17 15:13:45.447885,52224,gwalior,False,False,15,False,False,Legitimate
+310,User_015,2025-01-17 16:42:26.447885,71504,gwalior,False,False,16,False,False,Legitimate
+320,User_015,2025-01-17 21:21:34.447885,2853,gwalior,False,False,21,False,False,Legitimate
+318,User_015,2025-01-17 21:48:13.447885,98432,kolkata,False,True,21,False,False,Legitimate
+324,User_016,2025-01-16 07:19:01.447885,96682,deharadhun,False,False,7,False,False,Legitimate
+327,User_016,2025-01-16 11:38:46.447885,26280,deharadhun,False,False,11,False,False,Legitimate
+325,User_016,2025-01-16 14:00:18.447885,34238,deharadhun,False,False,14,False,False,Legitimate
+322,User_016,2025-01-16 14:40:36.447885,26958,deharadhun,False,False,14,False,False,Legitimate
+326,User_016,2025-01-16 15:53:34.447885,7699,deharadhun,False,False,15,False,False,Legitimate
+323,User_016,2025-01-16 17:09:14.447885,54427,deharadhun,False,False,17,False,False,Legitimate
+321,User_016,2025-01-16 21:26:24.447885,12998,deharadhun,False,False,21,False,False,Legitimate
+338,User_016,2025-01-17 02:14:56.447885,59954,deharadhun,False,False,2,True,False,Legitimate
+330,User_016,2025-01-17 03:40:14.447885,49773,deharadhun,False,False,3,True,False,Legitimate
+328,User_016,2025-01-17 06:39:19.447885,79482,kolkata,False,True,6,False,False,Legitimate
+340,User_016,2025-01-17 09:41:46.447885,5803,deharadhun,False,False,9,False,False,Legitimate
+339,User_016,2025-01-17 10:04:41.447885,39005,deharadhun,False,False,10,False,False,Legitimate
+335,User_016,2025-01-17 10:24:50.447885,65954,deharadhun,False,False,10,False,False,Legitimate
+333,User_016,2025-01-17 11:14:25.447885,45541,deharadhun,False,False,11,False,False,Legitimate
+332,User_016,2025-01-17 12:32:31.447885,50817,deharadhun,False,False,12,False,False,Legitimate
+329,User_016,2025-01-17 12:33:31.447885,39400,jaipur,False,True,12,False,False,Legitimate
+337,User_016,2025-01-17 12:36:18.447885,27975,deharadhun,False,False,12,False,False,Legitimate
+331,User_016,2025-01-17 13:38:52.447885,86327,deharadhun,False,False,13,False,False,Legitimate
+334,User_016,2025-01-17 15:47:40.447885,23896,deharadhun,False,False,15,False,False,Legitimate
+336,User_016,2025-01-17 20:03:47.447885,86424,deharadhun,False,False,20,False,False,Legitimate
+341,User_017,2025-01-16 03:09:58.447885,76222,new york,False,False,3,True,False,Legitimate
+345,User_017,2025-01-16 08:38:23.447885,55671,bhopal,False,False,8,False,False,Legitimate
+342,User_017,2025-01-16 13:42:23.447885,13562,new york,False,False,13,False,False,Legitimate
+343,User_017,2025-01-16 14:25:19.447885,56371,new york,False,False,14,False,False,Legitimate
+346,User_017,2025-01-16 14:26:12.447885,37694,new york,False,False,14,False,False,Legitimate
+344,User_017,2025-01-16 14:48:48.447885,25024,new york,False,False,14,False,False,Legitimate
+349,User_017,2025-01-17 02:15:02.447885,73477,new york,False,False,2,True,False,Legitimate
+353,User_017,2025-01-17 02:24:33.447885,462297,new york,True,False,2,True,True,Fraudulent
+356,User_017,2025-01-17 03:57:51.447885,90815,new york,False,False,3,True,False,Legitimate
+347,User_017,2025-01-17 04:37:11.447885,48897,new york,False,False,4,True,False,Legitimate
+352,User_017,2025-01-17 07:06:01.447885,70316,new york,False,False,7,False,False,Legitimate
+359,User_017,2025-01-17 10:08:55.447885,91846,kolkata,False,True,10,False,False,Legitimate
+354,User_017,2025-01-17 11:41:15.447885,80044,new york,False,False,11,False,False,Legitimate
+358,User_017,2025-01-17 11:54:59.447885,14695,new york,False,False,11,False,False,Legitimate
+355,User_017,2025-01-17 14:50:06.447885,20176,new york,False,False,14,False,False,Legitimate
+350,User_017,2025-01-17 15:31:52.447885,90214,new york,False,False,15,False,False,Legitimate
+348,User_017,2025-01-17 16:19:33.447885,50861,new york,False,False,16,False,False,Legitimate
+357,User_017,2025-01-17 17:51:33.447885,79876,new york,False,False,17,False,False,Legitimate
+360,User_017,2025-01-17 22:56:54.447885,20425,new york,False,False,22,False,False,Legitimate
+351,User_017,2025-01-17 22:58:08.447885,59517,new york,False,False,22,False,False,Legitimate
+366,User_018,2025-01-16 03:01:49.447885,37864,delhi,False,False,3,True,False,Legitimate
+364,User_018,2025-01-16 07:24:32.447885,55815,delhi,False,False,7,False,False,Legitimate
+362,User_018,2025-01-16 16:13:21.447885,37129,delhi,False,False,16,False,False,Legitimate
+361,User_018,2025-01-16 16:40:55.447885,78097,patna,False,True,16,False,False,Legitimate
+365,User_018,2025-01-16 20:08:16.447885,97960,delhi,False,False,20,False,False,Legitimate
+367,User_018,2025-01-16 20:42:46.447885,69534,delhi,False,False,20,False,False,Legitimate
+363,User_018,2025-01-16 21:42:17.447885,20856,delhi,False,False,21,False,False,Legitimate
+368,User_018,2025-01-16 22:28:37.447885,94825,new york,False,True,22,False,False,Legitimate
+379,User_018,2025-01-17 06:54:03.447885,72947,delhi,False,False,6,False,False,Legitimate
+373,User_018,2025-01-17 08:35:35.447885,86485,bhopal,False,True,8,False,False,Legitimate
+376,User_018,2025-01-17 11:56:58.447885,303146,patna,True,True,11,False,True,Fraudulent
+371,User_018,2025-01-17 13:55:56.447885,20520,delhi,False,False,13,False,False,Legitimate
+369,User_018,2025-01-17 14:54:57.447885,3875,delhi,False,False,14,False,False,Legitimate
+378,User_018,2025-01-17 15:02:09.447885,60979,delhi,False,False,15,False,False,Legitimate
+380,User_018,2025-01-17 16:17:14.447885,37637,delhi,False,False,16,False,False,Legitimate
+375,User_018,2025-01-17 17:28:31.447885,91571,delhi,False,False,17,False,False,Legitimate
+374,User_018,2025-01-17 18:32:41.447885,92216,patna,False,True,18,False,False,Legitimate
+372,User_018,2025-01-17 18:58:51.447885,12505,patna,False,False,18,False,False,Legitimate
+377,User_018,2025-01-17 22:18:55.447885,14380,delhi,False,False,22,False,False,Legitimate
+370,User_018,2025-01-17 22:53:12.447885,126767,delhi,True,False,22,False,False,Legitimate
+382,User_019,2025-01-16 07:43:19.447885,216771,kolkata,True,False,7,False,False,Legitimate
+385,User_019,2025-01-16 09:48:05.447885,84529,kolkata,False,False,9,False,False,Legitimate
+386,User_019,2025-01-16 13:11:02.447885,443476,gwalior,True,False,13,False,False,Legitimate
+383,User_019,2025-01-16 17:58:07.447885,44840,kolkata,False,False,17,False,False,Legitimate
+381,User_019,2025-01-16 20:32:33.447885,37222,kolkata,False,False,20,False,False,Legitimate
+384,User_019,2025-01-16 21:53:16.447885,50765,new york,False,True,21,False,False,Legitimate
+393,User_019,2025-01-17 04:29:48.447885,98449,kolkata,False,False,4,True,False,Legitimate
+399,User_019,2025-01-17 07:22:59.447885,15420,kolkata,False,False,7,False,False,Legitimate
+391,User_019,2025-01-17 08:25:50.447885,498352,kolkata,True,False,8,False,False,Legitimate
+397,User_019,2025-01-17 08:46:55.447885,72954,kolkata,False,False,8,False,False,Legitimate
+395,User_019,2025-01-17 08:56:07.447885,58435,kolkata,False,False,8,False,False,Legitimate
+389,User_019,2025-01-17 09:28:08.447885,95629,kolkata,False,False,9,False,False,Legitimate
+390,User_019,2025-01-17 09:57:56.447885,50390,kolkata,False,False,9,False,False,Legitimate
+387,User_019,2025-01-17 12:36:00.447885,7780,kolkata,False,False,12,False,False,Legitimate
+388,User_019,2025-01-17 14:22:14.447885,70416,jaipur,False,True,14,False,False,Legitimate
+396,User_019,2025-01-17 15:01:10.447885,66130,kolkata,False,False,15,False,False,Legitimate
+394,User_019,2025-01-17 17:16:48.447885,60692,kolkata,False,False,17,False,False,Legitimate
+392,User_019,2025-01-17 21:37:16.447885,89234,kolkata,False,False,21,False,False,Legitimate
+400,User_019,2025-01-17 22:02:22.447885,9446,jaipur,False,True,22,False,False,Legitimate
+398,User_019,2025-01-17 22:39:41.447885,31113,kolkata,False,False,22,False,False,Legitimate
+407,User_020,2025-01-16 04:00:00.447885,26317,patna,False,False,4,True,False,Legitimate
+406,User_020,2025-01-16 08:00:30.447885,96126,patna,False,False,8,False,False,Legitimate
+404,User_020,2025-01-16 08:00:47.447885,83445,patna,False,False,8,False,False,Legitimate
+405,User_020,2025-01-16 08:15:06.447885,363090,patna,True,False,8,False,False,Legitimate
+402,User_020,2025-01-16 09:39:16.447885,13070,kolkata,False,True,9,False,False,Legitimate
+401,User_020,2025-01-16 09:53:21.447885,30645,patna,False,False,9,False,False,Legitimate
+403,User_020,2025-01-16 12:19:30.447885,114090,patna,True,False,12,False,False,Legitimate
+420,User_020,2025-01-17 03:46:48.447885,58249,patna,False,False,3,True,False,Legitimate
+409,User_020,2025-01-17 06:22:59.447885,5379,kolkata,False,True,6,False,False,Legitimate
+419,User_020,2025-01-17 09:23:10.447885,375087,delhi,True,True,9,False,True,Fraudulent
+417,User_020,2025-01-17 09:49:12.447885,21426,patna,False,False,9,False,False,Legitimate
+414,User_020,2025-01-17 10:04:27.447885,183831,patna,True,False,10,False,False,Legitimate
+413,User_020,2025-01-17 10:38:46.447885,51275,patna,False,False,10,False,False,Legitimate
+410,User_020,2025-01-17 10:50:43.447885,5319,patna,False,False,10,False,False,Legitimate
+408,User_020,2025-01-17 12:28:05.447885,82164,patna,False,False,12,False,False,Legitimate
+416,User_020,2025-01-17 14:53:11.447885,1705,delhi,False,True,14,False,False,Legitimate
+415,User_020,2025-01-17 18:41:54.447885,56456,patna,False,False,18,False,False,Legitimate
+418,User_020,2025-01-17 19:12:13.447885,17008,patna,False,False,19,False,False,Legitimate
+412,User_020,2025-01-17 21:28:37.447885,94707,patna,False,False,21,False,False,Legitimate
+411,User_020,2025-01-17 21:57:05.447885,43865,patna,False,False,21,False,False,Legitimate
+421,User_021,2025-01-16 07:35:45.447885,57008,jaipur,False,False,7,False,False,Legitimate
+426,User_021,2025-01-16 09:23:13.447885,81195,jaipur,False,False,9,False,False,Legitimate
+425,User_021,2025-01-16 10:13:04.447885,88598,new york,False,False,10,False,False,Legitimate
+423,User_021,2025-01-16 19:12:44.447885,70316,jaipur,False,False,19,False,False,Legitimate
+422,User_021,2025-01-16 19:23:48.447885,47886,jaipur,False,False,19,False,False,Legitimate
+424,User_021,2025-01-16 22:36:33.447885,32211,jaipur,False,False,22,False,False,Legitimate
+431,User_021,2025-01-17 03:05:34.447885,48314,jaipur,False,False,3,True,False,Legitimate
+433,User_021,2025-01-17 10:41:45.447885,16840,jaipur,False,False,10,False,False,Legitimate
+429,User_021,2025-01-17 12:12:05.447885,11938,gwalior,False,True,12,False,False,Legitimate
+436,User_021,2025-01-17 12:20:23.447885,71093,jaipur,False,False,12,False,False,Legitimate
+430,User_021,2025-01-17 16:04:06.447885,48173,jaipur,False,False,16,False,False,Legitimate
+432,User_021,2025-01-17 16:22:02.447885,45113,jaipur,False,False,16,False,False,Legitimate
+439,User_021,2025-01-17 16:31:39.447885,37232,jaipur,False,False,16,False,False,Legitimate
+428,User_021,2025-01-17 16:38:41.447885,74437,jaipur,False,False,16,False,False,Legitimate
+437,User_021,2025-01-17 17:02:27.447885,71409,jaipur,False,False,17,False,False,Legitimate
+438,User_021,2025-01-17 18:58:42.447885,79867,patna,False,True,18,False,False,Legitimate
+434,User_021,2025-01-17 19:27:49.447885,34653,bhopal,False,True,19,False,False,Legitimate
+440,User_021,2025-01-17 20:21:54.447885,175833,jaipur,True,False,20,False,False,Legitimate
+435,User_021,2025-01-17 20:25:41.447885,17691,jaipur,False,False,20,False,False,Legitimate
+427,User_021,2025-01-17 22:35:44.447885,44948,jaipur,False,False,22,False,False,Legitimate
+444,User_022,2025-01-16 08:06:02.447885,61763,patna,False,False,8,False,False,Legitimate
+445,User_022,2025-01-16 16:37:41.447885,398178,delhi,True,False,16,False,False,Legitimate
+442,User_022,2025-01-16 17:28:34.447885,28204,patna,False,False,17,False,False,Legitimate
+443,User_022,2025-01-16 19:48:19.447885,104507,patna,True,False,19,False,False,Legitimate
+441,User_022,2025-01-16 21:35:47.447885,46981,patna,False,False,21,False,False,Legitimate
+450,User_022,2025-01-17 04:30:25.447885,85440,patna,False,False,4,True,False,Legitimate
+446,User_022,2025-01-17 07:37:26.447885,21773,patna,False,False,7,False,False,Legitimate
+449,User_022,2025-01-17 07:50:28.447885,78438,patna,False,False,7,False,False,Legitimate
+447,User_022,2025-01-17 08:10:04.447885,83535,patna,False,False,8,False,False,Legitimate
+456,User_022,2025-01-17 10:44:02.447885,18902,patna,False,False,10,False,False,Legitimate
+457,User_022,2025-01-17 11:18:45.447885,75030,patna,False,False,11,False,False,Legitimate
+452,User_022,2025-01-17 12:42:05.447885,2843,patna,False,False,12,False,False,Legitimate
+455,User_022,2025-01-17 14:39:05.447885,75122,patna,False,False,14,False,False,Legitimate
+453,User_022,2025-01-17 15:08:50.447885,35767,kolkata,False,True,15,False,False,Legitimate
+448,User_022,2025-01-17 21:36:01.447885,44306,patna,False,False,21,False,False,Legitimate
+454,User_022,2025-01-17 21:46:36.447885,13025,patna,False,False,21,False,False,Legitimate
+459,User_022,2025-01-17 21:53:44.447885,91262,patna,False,False,21,False,False,Legitimate
+458,User_022,2025-01-17 22:41:29.447885,18625,noida,False,True,22,False,False,Legitimate
+451,User_022,2025-01-17 22:57:18.447885,1480,jaipur,False,True,22,False,False,Legitimate
+460,User_022,2025-01-18 02:58:57.447885,69004,jaipur,False,False,2,True,False,Legitimate
+463,User_023,2025-01-16 03:41:26.447885,58431,gwalior,False,False,3,True,False,Legitimate
+467,User_023,2025-01-16 06:28:12.447885,76540,mumbai,False,False,6,False,False,Legitimate
+465,User_023,2025-01-16 06:51:00.447885,40428,mumbai,False,False,6,False,False,Legitimate
+466,User_023,2025-01-16 09:40:45.447885,85156,mumbai,False,False,9,False,False,Legitimate
+468,User_023,2025-01-16 11:03:43.447885,359297,mumbai,True,False,11,False,False,Legitimate
+461,User_023,2025-01-16 13:46:40.447885,23973,gwalior,False,True,13,False,False,Legitimate
+462,User_023,2025-01-16 15:06:45.447885,78038,bhopal,False,True,15,False,False,Legitimate
+464,User_023,2025-01-16 19:04:59.447885,40691,mumbai,False,False,19,False,False,Legitimate
+471,User_023,2025-01-17 04:02:59.447885,423912,mumbai,True,False,4,True,True,Fraudulent
+480,User_023,2025-01-17 06:34:50.447885,84893,patna,False,True,6,False,False,Legitimate
+478,User_023,2025-01-17 07:08:17.447885,498791,mumbai,True,False,7,False,False,Legitimate
+474,User_023,2025-01-17 12:39:08.447885,50600,mumbai,False,False,12,False,False,Legitimate
+475,User_023,2025-01-17 13:02:15.447885,17285,noida,False,True,13,False,False,Legitimate
+479,User_023,2025-01-17 13:03:55.447885,77941,mumbai,False,False,13,False,False,Legitimate
+476,User_023,2025-01-17 13:37:13.447885,14090,mumbai,False,False,13,False,False,Legitimate
+469,User_023,2025-01-17 17:14:35.447885,73770,mumbai,False,False,17,False,False,Legitimate
+472,User_023,2025-01-17 17:53:01.447885,62075,mumbai,False,False,17,False,False,Legitimate
+477,User_023,2025-01-17 20:40:44.447885,54787,kolkata,False,True,20,False,False,Legitimate
+470,User_023,2025-01-17 20:51:51.447885,35511,mumbai,False,False,20,False,False,Legitimate
+473,User_023,2025-01-17 21:34:37.447885,87625,mumbai,False,False,21,False,False,Legitimate
+484,User_024,2025-01-16 03:30:57.447885,83052,delhi,False,False,3,True,False,Legitimate
+481,User_024,2025-01-16 03:50:50.447885,53838,delhi,False,False,3,True,False,Legitimate
+485,User_024,2025-01-16 09:15:16.447885,22379,delhi,False,False,9,False,False,Legitimate
+486,User_024,2025-01-16 12:38:27.447885,246497,noida,True,True,12,False,True,Fraudulent
+482,User_024,2025-01-16 13:42:27.447885,71419,gwalior,False,True,13,False,False,Legitimate
+483,User_024,2025-01-16 16:56:11.447885,2483,delhi,False,False,16,False,False,Legitimate
+487,User_024,2025-01-17 03:14:58.447885,56705,delhi,False,False,3,True,False,Legitimate
+493,User_024,2025-01-17 03:15:19.447885,81715,delhi,False,False,3,True,False,Legitimate
+499,User_024,2025-01-17 04:19:28.447885,92123,mumbai,False,True,4,True,True,Fraudulent
+491,User_024,2025-01-17 04:24:52.447885,37779,gwalior,False,True,4,True,True,Fraudulent
+492,User_024,2025-01-17 06:44:21.447885,45199,delhi,False,False,6,False,False,Legitimate
+489,User_024,2025-01-17 07:21:10.447885,137011,delhi,True,False,7,False,False,Legitimate
+497,User_024,2025-01-17 10:36:18.447885,14792,delhi,False,False,10,False,False,Legitimate
+488,User_024,2025-01-17 11:02:12.447885,8547,delhi,False,False,11,False,False,Legitimate
+498,User_024,2025-01-17 12:39:51.447885,38264,delhi,False,False,12,False,False,Legitimate
+494,User_024,2025-01-17 12:41:34.447885,75173,delhi,False,False,12,False,False,Legitimate
+490,User_024,2025-01-17 13:59:22.447885,82324,delhi,False,False,13,False,False,Legitimate
+495,User_024,2025-01-17 14:02:58.447885,78999,delhi,False,False,14,False,False,Legitimate
+496,User_024,2025-01-17 15:14:15.447885,70731,delhi,False,False,15,False,False,Legitimate
+500,User_024,2025-01-17 20:28:15.447885,302237,delhi,True,False,20,False,False,Legitimate
+508,User_025,2025-01-16 06:21:30.447885,93035,jaipur,False,False,6,False,False,Legitimate
+505,User_025,2025-01-16 08:09:54.447885,55690,patna,False,False,8,False,False,Legitimate
+501,User_025,2025-01-16 08:15:25.447885,66977,jaipur,False,False,8,False,False,Legitimate
+504,User_025,2025-01-16 11:21:42.447885,23175,jaipur,False,False,11,False,False,Legitimate
+507,User_025,2025-01-16 11:21:54.447885,54761,jaipur,False,False,11,False,False,Legitimate
+506,User_025,2025-01-16 14:11:45.447885,19022,jaipur,False,False,14,False,False,Legitimate
+503,User_025,2025-01-16 17:35:05.447885,78876,patna,False,True,17,False,False,Legitimate
+502,User_025,2025-01-16 20:11:32.447885,82519,jaipur,False,False,20,False,False,Legitimate
+509,User_025,2025-01-17 02:58:08.447885,24254,jaipur,False,False,2,True,False,Legitimate
+511,User_025,2025-01-17 04:17:12.447885,94564,jaipur,False,False,4,True,False,Legitimate
+512,User_025,2025-01-17 12:07:36.447885,67199,jaipur,False,False,12,False,False,Legitimate
+517,User_025,2025-01-17 12:46:44.447885,3410,jaipur,False,False,12,False,False,Legitimate
+516,User_025,2025-01-17 18:34:38.447885,47028,gwalior,False,True,18,False,False,Legitimate
+519,User_025,2025-01-17 19:25:25.447885,304691,jaipur,True,False,19,False,False,Legitimate
+513,User_025,2025-01-17 20:46:13.447885,52273,jaipur,False,False,20,False,False,Legitimate
+510,User_025,2025-01-17 21:32:34.447885,152987,new york,True,True,21,False,True,Fraudulent
+518,User_025,2025-01-17 21:44:17.447885,93984,jaipur,False,False,21,False,False,Legitimate
+515,User_025,2025-01-17 22:00:12.447885,51410,noida,False,True,22,False,False,Legitimate
+514,User_025,2025-01-17 22:30:48.447885,15524,jaipur,False,False,22,False,False,Legitimate
+520,User_025,2025-01-18 14:20:49.447885,73248,jaipur,False,False,14,False,False,Legitimate
+521,User_026,2025-01-16 04:23:05.447885,72145,patna,False,False,4,True,False,Legitimate
+523,User_026,2025-01-16 04:41:04.447885,81092,noida,False,False,4,True,False,Legitimate
+527,User_026,2025-01-16 08:48:13.447885,33301,patna,False,False,8,False,False,Legitimate
+526,User_026,2025-01-16 09:59:06.447885,39709,patna,False,False,9,False,False,Legitimate
+525,User_026,2025-01-16 10:16:05.447885,68861,patna,False,False,10,False,False,Legitimate
+522,User_026,2025-01-16 10:51:38.447885,35596,patna,False,False,10,False,False,Legitimate
+524,User_026,2025-01-16 21:38:44.447885,93714,patna,False,False,21,False,False,Legitimate
+535,User_026,2025-01-17 02:45:35.447885,94313,patna,False,False,2,True,False,Legitimate
+534,User_026,2025-01-17 04:07:08.447885,89830,patna,False,False,4,True,False,Legitimate
+538,User_026,2025-01-17 06:12:49.447885,73401,patna,False,False,6,False,False,Legitimate
+539,User_026,2025-01-17 06:13:54.447885,84987,patna,False,False,6,False,False,Legitimate
+533,User_026,2025-01-17 07:09:54.447885,94529,patna,False,False,7,False,False,Legitimate
+529,User_026,2025-01-17 08:50:25.447885,441617,patna,True,False,8,False,False,Legitimate
+528,User_026,2025-01-17 13:04:19.447885,83109,patna,False,False,13,False,False,Legitimate
+530,User_026,2025-01-17 13:18:30.447885,263681,patna,True,False,13,False,False,Legitimate
+531,User_026,2025-01-17 15:09:36.447885,63534,patna,False,False,15,False,False,Legitimate
+537,User_026,2025-01-17 15:22:40.447885,60770,patna,False,False,15,False,False,Legitimate
+532,User_026,2025-01-17 16:16:49.447885,99873,patna,False,False,16,False,False,Legitimate
+536,User_026,2025-01-17 18:36:03.447885,95018,patna,False,False,18,False,False,Legitimate
+540,User_026,2025-01-17 19:27:04.447885,89590,patna,False,False,19,False,False,Legitimate
+541,User_027,2025-01-16 04:10:20.447885,41926,patna,False,False,4,True,False,Legitimate
+544,User_027,2025-01-16 10:29:25.447885,60802,bhopal,False,False,10,False,False,Legitimate
+548,User_027,2025-01-16 11:39:43.447885,416161,bhopal,True,False,11,False,False,Legitimate
+543,User_027,2025-01-16 13:07:30.447885,91148,bhopal,False,False,13,False,False,Legitimate
+545,User_027,2025-01-16 13:39:51.447885,98906,bhopal,False,False,13,False,False,Legitimate
+546,User_027,2025-01-16 21:24:57.447885,42314,bhopal,False,False,21,False,False,Legitimate
+542,User_027,2025-01-16 22:13:07.447885,258059,bhopal,True,False,22,False,False,Legitimate
+547,User_027,2025-01-16 22:42:26.447885,7027,bhopal,False,False,22,False,False,Legitimate
+555,User_027,2025-01-17 03:44:10.447885,332499,bhopal,True,False,3,True,True,Fraudulent
+560,User_027,2025-01-17 06:59:40.447885,66306,bhopal,False,False,6,False,False,Legitimate
+552,User_027,2025-01-17 08:23:23.447885,69780,bhopal,False,False,8,False,False,Legitimate
+553,User_027,2025-01-17 09:50:27.447885,72118,bhopal,False,False,9,False,False,Legitimate
+550,User_027,2025-01-17 11:07:23.447885,24045,bhopal,False,False,11,False,False,Legitimate
+559,User_027,2025-01-17 11:54:43.447885,6127,jaipur,False,True,11,False,False,Legitimate
+554,User_027,2025-01-17 14:12:17.447885,60359,mumbai,False,True,14,False,False,Legitimate
+551,User_027,2025-01-17 16:24:49.447885,43073,bhopal,False,False,16,False,False,Legitimate
+558,User_027,2025-01-17 16:34:37.447885,76953,bhopal,False,False,16,False,False,Legitimate
+557,User_027,2025-01-17 17:25:01.447885,77434,bhopal,False,False,17,False,False,Legitimate
+549,User_027,2025-01-17 20:17:31.447885,73822,new york,False,True,20,False,False,Legitimate
+556,User_027,2025-01-17 21:04:17.447885,24066,bhopal,False,False,21,False,False,Legitimate
+562,User_028,2025-01-16 06:37:50.447885,4653,delhi,False,False,6,False,False,Legitimate
+561,User_028,2025-01-16 10:03:17.447885,95248,delhi,False,False,10,False,False,Legitimate
+564,User_028,2025-01-16 10:38:52.447885,16360,delhi,False,False,10,False,False,Legitimate
+563,User_028,2025-01-16 13:41:51.447885,51797,delhi,False,False,13,False,False,Legitimate
+565,User_028,2025-01-16 17:10:13.447885,90802,delhi,False,False,17,False,False,Legitimate
+576,User_028,2025-01-17 06:57:25.447885,77653,delhi,False,False,6,False,False,Legitimate
+574,User_028,2025-01-17 06:59:22.447885,71745,gwalior,False,True,6,False,False,Legitimate
+569,User_028,2025-01-17 07:29:47.447885,79216,delhi,False,False,7,False,False,Legitimate
+575,User_028,2025-01-17 09:18:51.447885,20428,jaipur,False,True,9,False,False,Legitimate
+567,User_028,2025-01-17 13:28:27.447885,28658,delhi,False,False,13,False,False,Legitimate
+579,User_028,2025-01-17 14:43:04.447885,84320,delhi,False,False,14,False,False,Legitimate
+570,User_028,2025-01-17 15:13:24.447885,65407,delhi,False,False,15,False,False,Legitimate
+578,User_028,2025-01-17 15:54:50.447885,39498,delhi,False,False,15,False,False,Legitimate
+571,User_028,2025-01-17 16:05:17.447885,84053,kolkata,False,True,16,False,False,Legitimate
+568,User_028,2025-01-17 16:16:25.447885,62597,delhi,False,False,16,False,False,Legitimate
+577,User_028,2025-01-17 19:10:38.447885,6549,delhi,False,False,19,False,False,Legitimate
+566,User_028,2025-01-17 21:30:13.447885,82571,delhi,False,False,21,False,False,Legitimate
+572,User_028,2025-01-17 22:21:26.447885,2404,delhi,False,False,22,False,False,Legitimate
+573,User_028,2025-01-17 22:37:26.447885,78905,delhi,False,False,22,False,False,Legitimate
+580,User_028,2025-01-18 03:05:13.447885,36980,delhi,False,False,3,True,False,Legitimate
+587,User_029,2025-01-16 02:09:59.447885,86661,patna,False,False,2,True,False,Legitimate
+585,User_029,2025-01-16 08:55:30.447885,62831,patna,False,False,8,False,False,Legitimate
+581,User_029,2025-01-16 11:05:11.447885,41827,kolkata,False,False,11,False,False,Legitimate
+583,User_029,2025-01-16 15:09:49.447885,22587,deharadhun,False,True,15,False,False,Legitimate
+582,User_029,2025-01-16 19:22:02.447885,17765,patna,False,False,19,False,False,Legitimate
+586,User_029,2025-01-16 21:28:18.447885,53271,patna,False,False,21,False,False,Legitimate
+584,User_029,2025-01-16 22:26:15.447885,28250,kolkata,False,True,22,False,False,Legitimate
+598,User_029,2025-01-17 03:23:20.447885,490849,deharadhun,True,True,3,True,True,Fraudulent
+588,User_029,2025-01-17 06:19:30.447885,10331,bhopal,False,True,6,False,False,Legitimate
+597,User_029,2025-01-17 06:36:07.447885,18485,patna,False,True,6,False,False,Legitimate
+592,User_029,2025-01-17 11:37:21.447885,51578,noida,False,True,11,False,False,Legitimate
+593,User_029,2025-01-17 13:55:41.447885,33577,patna,False,False,13,False,False,Legitimate
+590,User_029,2025-01-17 14:00:00.447885,17546,patna,False,False,14,False,False,Legitimate
+599,User_029,2025-01-17 14:53:43.447885,181803,noida,True,False,14,False,False,Legitimate
+591,User_029,2025-01-17 15:44:11.447885,34131,patna,False,False,15,False,False,Legitimate
+594,User_029,2025-01-17 16:40:12.447885,56442,patna,False,False,16,False,False,Legitimate
+596,User_029,2025-01-17 17:42:21.447885,35915,patna,False,False,17,False,False,Legitimate
+595,User_029,2025-01-17 18:27:11.447885,15482,patna,False,False,18,False,False,Legitimate
+589,User_029,2025-01-17 22:54:38.447885,49823,patna,False,False,22,False,False,Legitimate
+600,User_029,2025-01-18 03:05:50.447885,31093,patna,False,False,3,True,False,Legitimate
+606,User_030,2025-01-16 02:02:58.447885,267937,jaipur,True,False,2,True,True,Fraudulent
+605,User_030,2025-01-16 06:24:02.447885,58228,noida,False,False,6,False,False,Legitimate
+602,User_030,2025-01-16 07:45:49.447885,33389,new york,False,False,7,False,False,Legitimate
+604,User_030,2025-01-16 08:33:48.447885,48276,new york,False,False,8,False,False,Legitimate
+603,User_030,2025-01-16 08:54:29.447885,80015,new york,False,False,8,False,False,Legitimate
+601,User_030,2025-01-16 20:08:12.447885,56919,new york,False,False,20,False,False,Legitimate
+612,User_030,2025-01-17 02:20:19.447885,74459,new york,False,False,2,True,False,Legitimate
+615,User_030,2025-01-17 06:43:21.447885,274036,new york,True,False,6,False,False,Legitimate
+618,User_030,2025-01-17 09:33:33.447885,21233,new york,False,False,9,False,False,Legitimate
+619,User_030,2025-01-17 09:55:52.447885,7669,noida,False,True,9,False,False,Legitimate
+617,User_030,2025-01-17 11:42:17.447885,20616,bhopal,False,True,11,False,False,Legitimate
+611,User_030,2025-01-17 13:50:37.447885,99870,new york,False,False,13,False,False,Legitimate
+609,User_030,2025-01-17 15:19:18.447885,238972,new york,True,False,15,False,False,Legitimate
+616,User_030,2025-01-17 16:56:10.447885,67399,new york,False,False,16,False,False,Legitimate
+620,User_030,2025-01-17 17:05:36.447885,88909,new york,False,False,17,False,False,Legitimate
+610,User_030,2025-01-17 17:45:03.447885,98052,new york,False,False,17,False,False,Legitimate
+608,User_030,2025-01-17 18:50:13.447885,4785,new york,False,False,18,False,False,Legitimate
+614,User_030,2025-01-17 19:15:35.447885,76778,new york,False,False,19,False,False,Legitimate
+613,User_030,2025-01-17 21:38:11.447885,36490,new york,False,False,21,False,False,Legitimate
+607,User_030,2025-01-17 22:55:38.447885,87178,new york,False,False,22,False,False,Legitimate
+624,User_031,2025-01-16 04:38:07.447885,73703,jaipur,False,False,4,True,False,Legitimate
+627,User_031,2025-01-16 07:31:09.447885,33125,jaipur,False,False,7,False,False,Legitimate
+626,User_031,2025-01-16 07:50:17.447885,40549,jaipur,False,False,7,False,False,Legitimate
+622,User_031,2025-01-16 10:52:03.447885,76198,jaipur,False,False,10,False,False,Legitimate
+625,User_031,2025-01-16 13:20:16.447885,2648,jaipur,False,False,13,False,False,Legitimate
+623,User_031,2025-01-16 21:22:17.447885,19213,jaipur,False,False,21,False,False,Legitimate
+621,User_031,2025-01-16 22:16:14.447885,38804,jaipur,False,False,22,False,False,Legitimate
+637,User_031,2025-01-17 03:30:50.447885,34094,jaipur,False,False,3,True,False,Legitimate
+640,User_031,2025-01-17 04:01:30.447885,16080,jaipur,False,False,4,True,False,Legitimate
+628,User_031,2025-01-17 06:24:44.447885,58278,jaipur,False,False,6,False,False,Legitimate
+629,User_031,2025-01-17 12:02:45.447885,69423,jaipur,False,False,12,False,False,Legitimate
+636,User_031,2025-01-17 13:34:23.447885,14700,jaipur,False,False,13,False,False,Legitimate
+631,User_031,2025-01-17 15:50:04.447885,73756,jaipur,False,False,15,False,False,Legitimate
+630,User_031,2025-01-17 16:30:56.447885,29395,jaipur,False,False,16,False,False,Legitimate
+633,User_031,2025-01-17 17:27:16.447885,26226,jaipur,False,False,17,False,False,Legitimate
+634,User_031,2025-01-17 18:12:50.447885,28201,jaipur,False,False,18,False,False,Legitimate
+639,User_031,2025-01-17 18:20:31.447885,54901,jaipur,False,False,18,False,False,Legitimate
+635,User_031,2025-01-17 19:11:59.447885,283442,kolkata,True,True,19,False,True,Fraudulent
+632,User_031,2025-01-17 22:33:50.447885,7920,jaipur,False,False,22,False,False,Legitimate
+638,User_031,2025-01-17 22:38:52.447885,33701,jaipur,False,False,22,False,False,Legitimate
+641,User_032,2025-01-16 06:55:57.447885,17105,kolkata,False,False,6,False,False,Legitimate
+644,User_032,2025-01-16 07:26:01.447885,82640,kolkata,False,False,7,False,False,Legitimate
+645,User_032,2025-01-16 11:31:30.447885,407800,kolkata,True,False,11,False,False,Legitimate
+642,User_032,2025-01-16 15:21:36.447885,60795,kolkata,False,False,15,False,False,Legitimate
+646,User_032,2025-01-16 15:51:54.447885,71278,kolkata,False,False,15,False,False,Legitimate
+643,User_032,2025-01-16 21:56:40.447885,251141,kolkata,True,False,21,False,False,Legitimate
+658,User_032,2025-01-17 02:55:25.447885,38218,kolkata,False,False,2,True,False,Legitimate
+652,User_032,2025-01-17 03:34:03.447885,433262,patna,True,True,3,True,True,Fraudulent
+655,User_032,2025-01-17 06:22:08.447885,27218,delhi,False,True,6,False,False,Legitimate
+650,User_032,2025-01-17 06:45:35.447885,3959,mumbai,False,True,6,False,False,Legitimate
+656,User_032,2025-01-17 06:48:55.447885,77013,new york,False,True,6,False,False,Legitimate
+647,User_032,2025-01-17 07:21:44.447885,69254,patna,False,True,7,False,False,Legitimate
+648,User_032,2025-01-17 07:24:52.447885,144264,kolkata,True,True,7,False,True,Fraudulent
+651,User_032,2025-01-17 08:03:47.447885,330357,kolkata,True,False,8,False,False,Legitimate
+653,User_032,2025-01-17 09:46:35.447885,56525,kolkata,False,False,9,False,False,Legitimate
+659,User_032,2025-01-17 10:32:23.447885,78205,kolkata,False,False,10,False,False,Legitimate
+660,User_032,2025-01-17 11:11:38.447885,72556,kolkata,False,False,11,False,False,Legitimate
+649,User_032,2025-01-17 13:09:56.447885,22404,kolkata,False,False,13,False,False,Legitimate
+654,User_032,2025-01-17 19:27:09.447885,70535,kolkata,False,False,19,False,False,Legitimate
+657,User_032,2025-01-17 22:58:13.447885,2542,kolkata,False,False,22,False,False,Legitimate
+663,User_033,2025-01-16 06:48:46.447885,16700,bhopal,False,False,6,False,False,Legitimate
+661,User_033,2025-01-16 07:25:58.447885,97535,delhi,False,False,7,False,False,Legitimate
+664,User_033,2025-01-16 10:24:24.447885,71050,delhi,False,False,10,False,False,Legitimate
+666,User_033,2025-01-16 12:16:07.447885,7328,delhi,False,False,12,False,False,Legitimate
+665,User_033,2025-01-16 15:05:42.447885,93438,delhi,False,False,15,False,False,Legitimate
+662,User_033,2025-01-16 20:19:06.447885,63532,delhi,False,False,20,False,False,Legitimate
+667,User_033,2025-01-17 06:41:31.447885,20543,new york,False,True,6,False,False,Legitimate
+669,User_033,2025-01-17 09:15:20.447885,31120,delhi,False,False,9,False,False,Legitimate
+678,User_033,2025-01-17 09:29:31.447885,41060,delhi,False,False,9,False,False,Legitimate
+680,User_033,2025-01-17 10:29:48.447885,30078,delhi,False,False,10,False,False,Legitimate
+668,User_033,2025-01-17 10:59:45.447885,33920,patna,False,True,10,False,False,Legitimate
+673,User_033,2025-01-17 11:45:48.447885,60434,delhi,False,False,11,False,False,Legitimate
+670,User_033,2025-01-17 13:34:00.447885,6423,delhi,False,False,13,False,False,Legitimate
+679,User_033,2025-01-17 13:35:56.447885,34638,jaipur,False,True,13,False,False,Legitimate
+677,User_033,2025-01-17 13:56:16.447885,34157,delhi,False,False,13,False,False,Legitimate
+672,User_033,2025-01-17 15:17:40.447885,14031,delhi,False,False,15,False,False,Legitimate
+674,User_033,2025-01-17 18:07:43.447885,81368,delhi,False,False,18,False,False,Legitimate
+671,User_033,2025-01-17 19:31:26.447885,59219,delhi,False,False,19,False,False,Legitimate
+675,User_033,2025-01-17 22:25:34.447885,194331,delhi,True,False,22,False,False,Legitimate
+676,User_033,2025-01-17 22:55:15.447885,11048,delhi,False,False,22,False,False,Legitimate
+685,User_034,2025-01-16 02:04:24.447885,301266,new york,True,False,2,True,True,Fraudulent
+683,User_034,2025-01-16 06:16:05.447885,49746,new york,False,False,6,False,False,Legitimate
+687,User_034,2025-01-16 09:37:35.447885,23609,new york,False,False,9,False,False,Legitimate
+682,User_034,2025-01-16 13:21:03.447885,286790,new york,True,False,13,False,False,Legitimate
+681,User_034,2025-01-16 14:52:15.447885,89300,new york,False,False,14,False,False,Legitimate
+686,User_034,2025-01-16 20:15:16.447885,85413,new york,False,False,20,False,False,Legitimate
+684,User_034,2025-01-16 20:26:36.447885,68744,new york,False,False,20,False,False,Legitimate
+692,User_034,2025-01-17 02:20:59.447885,31469,new york,False,False,2,True,False,Legitimate
+696,User_034,2025-01-17 06:03:51.447885,213756,new york,True,False,6,False,False,Legitimate
+690,User_034,2025-01-17 06:17:44.447885,58618,new york,False,False,6,False,False,Legitimate
+698,User_034,2025-01-17 09:19:05.447885,30182,deharadhun,False,True,9,False,False,Legitimate
+695,User_034,2025-01-17 09:47:05.447885,94236,new york,False,False,9,False,False,Legitimate
+699,User_034,2025-01-17 09:50:11.447885,268260,new york,True,False,9,False,False,Legitimate
+697,User_034,2025-01-17 09:56:03.447885,17670,bhopal,False,True,9,False,False,Legitimate
+688,User_034,2025-01-17 13:59:31.447885,32532,new york,False,False,13,False,False,Legitimate
+689,User_034,2025-01-17 15:22:43.447885,70797,new york,False,False,15,False,False,Legitimate
+693,User_034,2025-01-17 18:05:44.447885,99556,new york,False,False,18,False,False,Legitimate
+694,User_034,2025-01-17 20:15:29.447885,90090,new york,False,False,20,False,False,Legitimate
+691,User_034,2025-01-17 22:15:49.447885,327254,gwalior,True,True,22,False,True,Fraudulent
+700,User_034,2025-01-18 07:03:12.447885,45429,new york,False,False,7,False,False,Legitimate
+704,User_035,2025-01-16 03:58:02.447885,492940,kolkata,True,False,3,True,True,Fraudulent
+702,User_035,2025-01-16 10:39:07.447885,84682,delhi,False,False,10,False,False,Legitimate
+705,User_035,2025-01-16 15:53:39.447885,11712,delhi,False,False,15,False,False,Legitimate
+701,User_035,2025-01-16 22:19:13.447885,84551,delhi,False,False,22,False,False,Legitimate
+703,User_035,2025-01-16 22:56:05.447885,49777,delhi,False,False,22,False,False,Legitimate
+716,User_035,2025-01-17 03:04:47.447885,263740,delhi,True,False,3,True,True,Fraudulent
+714,User_035,2025-01-17 04:19:11.447885,45832,delhi,False,False,4,True,False,Legitimate
+712,User_035,2025-01-17 06:45:00.447885,43554,delhi,False,False,6,False,False,Legitimate
+719,User_035,2025-01-17 07:01:33.447885,87133,delhi,False,False,7,False,False,Legitimate
+710,User_035,2025-01-17 08:27:30.447885,70917,delhi,False,False,8,False,False,Legitimate
+713,User_035,2025-01-17 09:49:44.447885,58873,delhi,False,False,9,False,False,Legitimate
+706,User_035,2025-01-17 14:51:17.447885,11355,kolkata,False,True,14,False,False,Legitimate
+709,User_035,2025-01-17 14:55:39.447885,57209,delhi,False,False,14,False,False,Legitimate
+708,User_035,2025-01-17 14:56:37.447885,55650,delhi,False,False,14,False,False,Legitimate
+718,User_035,2025-01-17 15:54:34.447885,68081,delhi,False,False,15,False,False,Legitimate
+711,User_035,2025-01-17 19:03:32.447885,96234,delhi,False,False,19,False,False,Legitimate
+715,User_035,2025-01-17 19:36:03.447885,241211,mumbai,True,True,19,False,True,Fraudulent
+707,User_035,2025-01-17 20:00:18.447885,39531,delhi,False,False,20,False,False,Legitimate
+717,User_035,2025-01-17 20:03:34.447885,13936,delhi,False,False,20,False,False,Legitimate
+720,User_035,2025-01-18 20:43:22.447885,77780,delhi,False,False,20,False,False,Legitimate
+726,User_036,2025-01-16 07:29:33.447885,61633,mumbai,False,False,7,False,False,Legitimate
+722,User_036,2025-01-16 08:13:31.447885,46724,mumbai,False,False,8,False,False,Legitimate
+727,User_036,2025-01-16 08:25:02.447885,97110,mumbai,False,False,8,False,False,Legitimate
+724,User_036,2025-01-16 09:38:54.447885,34594,bhopal,False,True,9,False,False,Legitimate
+725,User_036,2025-01-16 11:59:13.447885,46510,mumbai,False,False,11,False,False,Legitimate
+721,User_036,2025-01-16 18:46:43.447885,21493,mumbai,False,False,18,False,False,Legitimate
+723,User_036,2025-01-16 22:54:03.447885,28932,kolkata,False,True,22,False,False,Legitimate
+733,User_036,2025-01-17 04:45:57.447885,58691,mumbai,False,False,4,True,False,Legitimate
+735,User_036,2025-01-17 06:03:57.447885,24217,noida,False,True,6,False,False,Legitimate
+736,User_036,2025-01-17 06:04:09.447885,42613,mumbai,False,False,6,False,False,Legitimate
+737,User_036,2025-01-17 06:18:40.447885,11852,mumbai,False,False,6,False,False,Legitimate
+734,User_036,2025-01-17 11:57:24.447885,65837,mumbai,False,False,11,False,False,Legitimate
+730,User_036,2025-01-17 12:12:47.447885,66397,mumbai,False,False,12,False,False,Legitimate
+740,User_036,2025-01-17 13:38:15.447885,29680,mumbai,False,False,13,False,False,Legitimate
+738,User_036,2025-01-17 15:14:19.447885,99612,mumbai,False,False,15,False,False,Legitimate
+732,User_036,2025-01-17 20:00:14.447885,30427,mumbai,False,False,20,False,False,Legitimate
+739,User_036,2025-01-17 20:27:58.447885,18029,mumbai,False,False,20,False,False,Legitimate
+728,User_036,2025-01-17 22:27:56.447885,160445,mumbai,True,False,22,False,False,Legitimate
+731,User_036,2025-01-17 22:31:28.447885,21172,mumbai,False,False,22,False,False,Legitimate
+729,User_036,2025-01-17 22:46:50.447885,32564,mumbai,False,False,22,False,False,Legitimate
+744,User_037,2025-01-16 07:51:56.447885,73459,gwalior,False,False,7,False,False,Legitimate
+746,User_037,2025-01-16 11:15:23.447885,9047,gwalior,False,False,11,False,False,Legitimate
+743,User_037,2025-01-16 11:15:28.447885,65213,gwalior,False,False,11,False,False,Legitimate
+741,User_037,2025-01-16 14:18:18.447885,6284,gwalior,False,False,14,False,False,Legitimate
+748,User_037,2025-01-16 15:28:46.447885,44377,kolkata,False,True,15,False,False,Legitimate
+747,User_037,2025-01-16 19:21:58.447885,338812,gwalior,True,False,19,False,False,Legitimate
+742,User_037,2025-01-16 21:06:29.447885,91747,gwalior,False,False,21,False,False,Legitimate
+745,User_037,2025-01-16 22:26:59.447885,13557,gwalior,False,False,22,False,False,Legitimate
+758,User_037,2025-01-17 03:16:16.447885,35504,kolkata,False,True,3,True,True,Fraudulent
+759,User_037,2025-01-17 03:29:58.447885,26386,gwalior,False,False,3,True,False,Legitimate
+756,User_037,2025-01-17 09:43:03.447885,41504,gwalior,False,False,9,False,False,Legitimate
+754,User_037,2025-01-17 09:44:31.447885,49914,gwalior,False,False,9,False,False,Legitimate
+752,User_037,2025-01-17 10:52:55.447885,7386,gwalior,False,False,10,False,False,Legitimate
+750,User_037,2025-01-17 10:57:23.447885,31745,gwalior,False,False,10,False,False,Legitimate
+751,User_037,2025-01-17 12:31:45.447885,77493,new york,False,True,12,False,False,Legitimate
+757,User_037,2025-01-17 14:10:40.447885,54784,gwalior,False,False,14,False,False,Legitimate
+753,User_037,2025-01-17 15:02:47.447885,25257,gwalior,False,False,15,False,False,Legitimate
+755,User_037,2025-01-17 18:30:03.447885,32371,gwalior,False,False,18,False,False,Legitimate
+760,User_037,2025-01-17 20:05:09.447885,17846,gwalior,False,False,20,False,False,Legitimate
+749,User_037,2025-01-17 22:32:37.447885,54477,gwalior,False,False,22,False,False,Legitimate
+762,User_038,2025-01-16 02:37:29.447885,88063,delhi,False,False,2,True,False,Legitimate
+761,User_038,2025-01-16 18:29:01.447885,38636,delhi,False,False,18,False,False,Legitimate
+765,User_038,2025-01-16 19:56:06.447885,96732,delhi,False,False,19,False,False,Legitimate
+763,User_038,2025-01-16 21:28:01.447885,79859,jaipur,False,True,21,False,False,Legitimate
+764,User_038,2025-01-16 21:58:11.447885,74393,delhi,False,False,21,False,False,Legitimate
+775,User_038,2025-01-17 02:04:05.447885,34121,deharadhun,False,True,2,True,True,Fraudulent
+768,User_038,2025-01-17 04:13:28.447885,44173,delhi,False,False,4,True,False,Legitimate
+778,User_038,2025-01-17 07:49:52.447885,93224,kolkata,False,True,7,False,False,Legitimate
+772,User_038,2025-01-17 09:05:07.447885,495013,delhi,True,False,9,False,False,Legitimate
+769,User_038,2025-01-17 10:21:53.447885,81393,delhi,False,False,10,False,False,Legitimate
+777,User_038,2025-01-17 14:08:02.447885,73800,delhi,False,False,14,False,False,Legitimate
+776,User_038,2025-01-17 15:14:12.447885,204826,delhi,True,False,15,False,False,Legitimate
+767,User_038,2025-01-17 18:15:23.447885,44483,delhi,False,False,18,False,False,Legitimate
+770,User_038,2025-01-17 19:03:49.447885,24671,delhi,False,False,19,False,False,Legitimate
+773,User_038,2025-01-17 19:44:36.447885,11820,delhi,False,False,19,False,False,Legitimate
+766,User_038,2025-01-17 21:01:08.447885,2934,delhi,False,False,21,False,False,Legitimate
+771,User_038,2025-01-17 22:13:44.447885,45643,delhi,False,False,22,False,False,Legitimate
+774,User_038,2025-01-17 22:59:39.447885,80235,delhi,False,False,22,False,False,Legitimate
+780,User_038,2025-01-18 10:35:51.447885,85542,delhi,False,False,10,False,False,Legitimate
+779,User_038,2025-01-18 16:09:45.447885,95783,delhi,False,False,16,False,False,Legitimate
+782,User_039,2025-01-16 03:21:41.447885,13521,deharadhun,False,False,3,True,False,Legitimate
+781,User_039,2025-01-16 03:58:46.447885,66014,deharadhun,False,False,3,True,False,Legitimate
+783,User_039,2025-01-16 04:00:18.447885,318040,noida,True,False,4,True,True,Fraudulent
+786,User_039,2025-01-16 11:32:03.447885,96760,noida,False,False,11,False,False,Legitimate
+784,User_039,2025-01-16 15:06:32.447885,84572,deharadhun,False,False,15,False,False,Legitimate
+785,User_039,2025-01-16 21:27:36.447885,30557,deharadhun,False,False,21,False,False,Legitimate
+790,User_039,2025-01-17 03:11:15.447885,6267,deharadhun,False,False,3,True,False,Legitimate
+789,User_039,2025-01-17 03:17:17.447885,246436,deharadhun,True,False,3,True,True,Fraudulent
+800,User_039,2025-01-17 06:24:42.447885,70882,deharadhun,False,False,6,False,False,Legitimate
+796,User_039,2025-01-17 10:41:58.447885,34730,deharadhun,False,False,10,False,False,Legitimate
+794,User_039,2025-01-17 11:18:47.447885,238987,noida,True,True,11,False,True,Fraudulent
+793,User_039,2025-01-17 12:54:33.447885,84158,noida,False,False,12,False,False,Legitimate
+798,User_039,2025-01-17 13:08:12.447885,42609,deharadhun,False,False,13,False,False,Legitimate
+791,User_039,2025-01-17 16:33:03.447885,52796,deharadhun,False,False,16,False,False,Legitimate
+799,User_039,2025-01-17 17:50:55.447885,34575,deharadhun,False,False,17,False,False,Legitimate
+792,User_039,2025-01-17 18:37:23.447885,32851,deharadhun,False,False,18,False,False,Legitimate
+797,User_039,2025-01-17 18:58:46.447885,79008,deharadhun,False,False,18,False,False,Legitimate
+788,User_039,2025-01-17 20:12:57.447885,65453,deharadhun,False,False,20,False,False,Legitimate
+795,User_039,2025-01-17 21:47:07.447885,99547,deharadhun,False,False,21,False,False,Legitimate
+787,User_039,2025-01-17 22:13:51.447885,9299,deharadhun,False,False,22,False,False,Legitimate
+806,User_040,2025-01-16 07:25:29.447885,66681,gwalior,False,False,7,False,False,Legitimate
+801,User_040,2025-01-16 08:49:08.447885,29366,gwalior,False,False,8,False,False,Legitimate
+807,User_040,2025-01-16 11:33:05.447885,26345,jaipur,False,False,11,False,False,Legitimate
+803,User_040,2025-01-16 11:35:28.447885,35989,gwalior,False,False,11,False,False,Legitimate
+805,User_040,2025-01-16 15:00:39.447885,28380,patna,False,True,15,False,False,Legitimate
+802,User_040,2025-01-16 17:44:04.447885,85280,gwalior,False,False,17,False,False,Legitimate
+804,User_040,2025-01-16 18:42:22.447885,57227,gwalior,False,False,18,False,False,Legitimate
+819,User_040,2025-01-17 02:52:45.447885,11838,gwalior,False,False,2,True,False,Legitimate
+815,User_040,2025-01-17 03:00:53.447885,180503,new york,True,True,3,True,True,Fraudulent
+816,User_040,2025-01-17 04:38:14.447885,71195,gwalior,False,False,4,True,False,Legitimate
+810,User_040,2025-01-17 07:01:03.447885,67774,gwalior,False,False,7,False,False,Legitimate
+809,User_040,2025-01-17 07:04:43.447885,6247,gwalior,False,False,7,False,False,Legitimate
+812,User_040,2025-01-17 08:52:15.447885,60067,gwalior,False,False,8,False,False,Legitimate
+813,User_040,2025-01-17 09:11:07.447885,39266,gwalior,False,False,9,False,False,Legitimate
+808,User_040,2025-01-17 09:51:11.447885,62432,gwalior,False,False,9,False,False,Legitimate
+818,User_040,2025-01-17 12:03:20.447885,59486,gwalior,False,False,12,False,False,Legitimate
+817,User_040,2025-01-17 12:09:24.447885,11445,gwalior,False,False,12,False,False,Legitimate
+820,User_040,2025-01-17 17:23:58.447885,90061,gwalior,False,False,17,False,False,Legitimate
+814,User_040,2025-01-17 21:23:57.447885,388574,gwalior,True,False,21,False,False,Legitimate
+811,User_040,2025-01-17 22:05:49.447885,59582,new york,False,True,22,False,False,Legitimate
+821,User_041,2025-01-16 14:59:26.447885,31711,kolkata,False,False,14,False,False,Legitimate
+823,User_041,2025-01-16 17:00:48.447885,43550,kolkata,False,False,17,False,False,Legitimate
+825,User_041,2025-01-16 17:41:28.447885,65698,kolkata,False,False,17,False,False,Legitimate
+826,User_041,2025-01-16 18:44:50.447885,38815,kolkata,False,False,18,False,False,Legitimate
+824,User_041,2025-01-16 20:06:51.447885,89561,kolkata,False,False,20,False,False,Legitimate
+822,User_041,2025-01-16 21:07:45.447885,56450,mumbai,False,True,21,False,False,Legitimate
+836,User_041,2025-01-17 03:07:27.447885,44108,kolkata,False,False,3,True,False,Legitimate
+835,User_041,2025-01-17 04:27:31.447885,12505,kolkata,False,False,4,True,False,Legitimate
+830,User_041,2025-01-17 08:09:28.447885,43273,kolkata,False,False,8,False,False,Legitimate
+838,User_041,2025-01-17 08:39:51.447885,90880,gwalior,False,True,8,False,False,Legitimate
+832,User_041,2025-01-17 09:10:10.447885,53856,kolkata,False,False,9,False,False,Legitimate
+833,User_041,2025-01-17 09:52:52.447885,71022,kolkata,False,False,9,False,False,Legitimate
+829,User_041,2025-01-17 15:02:00.447885,88635,kolkata,False,False,15,False,False,Legitimate
+839,User_041,2025-01-17 15:13:27.447885,23416,kolkata,False,False,15,False,False,Legitimate
+828,User_041,2025-01-17 17:19:15.447885,28863,kolkata,False,False,17,False,False,Legitimate
+837,User_041,2025-01-17 17:36:19.447885,31816,kolkata,False,False,17,False,False,Legitimate
+834,User_041,2025-01-17 18:24:44.447885,52909,kolkata,False,False,18,False,False,Legitimate
+827,User_041,2025-01-17 19:48:20.447885,268691,kolkata,True,False,19,False,False,Legitimate
+831,User_041,2025-01-17 22:35:50.447885,64569,kolkata,False,False,22,False,False,Legitimate
+840,User_041,2025-01-18 22:15:01.447885,69176,kolkata,False,False,22,False,False,Legitimate
+843,User_042,2025-01-16 02:16:56.447885,102524,gwalior,True,False,2,True,True,Fraudulent
+841,User_042,2025-01-16 10:07:30.447885,39880,patna,False,False,10,False,False,Legitimate
+844,User_042,2025-01-16 10:58:51.447885,15149,patna,False,False,10,False,False,Legitimate
+842,User_042,2025-01-16 19:29:57.447885,10341,patna,False,False,19,False,False,Legitimate
+845,User_042,2025-01-16 20:25:32.447885,23058,mumbai,False,True,20,False,False,Legitimate
+848,User_042,2025-01-17 04:23:11.447885,19604,patna,False,False,4,True,False,Legitimate
+852,User_042,2025-01-17 06:28:49.447885,83067,patna,False,False,6,False,False,Legitimate
+854,User_042,2025-01-17 07:07:47.447885,99565,patna,False,False,7,False,False,Legitimate
+855,User_042,2025-01-17 09:05:28.447885,82732,patna,False,False,9,False,False,Legitimate
+853,User_042,2025-01-17 09:21:42.447885,95968,patna,False,False,9,False,False,Legitimate
+849,User_042,2025-01-17 11:45:58.447885,37524,patna,False,False,11,False,False,Legitimate
+850,User_042,2025-01-17 12:51:58.447885,6914,patna,False,False,12,False,False,Legitimate
+859,User_042,2025-01-17 13:18:44.447885,67901,patna,False,False,13,False,False,Legitimate
+851,User_042,2025-01-17 16:08:37.447885,50609,patna,False,False,16,False,False,Legitimate
+857,User_042,2025-01-17 17:18:03.447885,37233,patna,False,False,17,False,False,Legitimate
+858,User_042,2025-01-17 18:48:10.447885,30320,patna,False,False,18,False,False,Legitimate
+847,User_042,2025-01-17 20:02:08.447885,94747,patna,False,False,20,False,False,Legitimate
+846,User_042,2025-01-17 21:42:56.447885,498522,patna,True,False,21,False,False,Legitimate
+856,User_042,2025-01-17 22:28:16.447885,19085,patna,False,False,22,False,False,Legitimate
+860,User_042,2025-01-18 06:47:47.447885,23537,patna,False,False,6,False,False,Legitimate
+863,User_043,2025-01-16 04:31:23.447885,10668,mumbai,False,False,4,True,False,Legitimate
+862,User_043,2025-01-16 07:23:41.447885,56234,mumbai,False,False,7,False,False,Legitimate
+864,User_043,2025-01-16 15:56:43.447885,29243,mumbai,False,False,15,False,False,Legitimate
+861,User_043,2025-01-16 16:43:30.447885,71479,mumbai,False,False,16,False,False,Legitimate
+876,User_043,2025-01-17 02:22:22.447885,37445,mumbai,False,False,2,True,False,Legitimate
+869,User_043,2025-01-17 04:37:34.447885,88037,mumbai,False,False,4,True,False,Legitimate
+873,User_043,2025-01-17 06:10:35.447885,48939,mumbai,False,False,6,False,False,Legitimate
+872,User_043,2025-01-17 08:48:15.447885,5804,mumbai,False,False,8,False,False,Legitimate
+868,User_043,2025-01-17 09:07:30.447885,35767,mumbai,False,False,9,False,False,Legitimate
+865,User_043,2025-01-17 09:52:16.447885,17812,bhopal,False,True,9,False,False,Legitimate
+866,User_043,2025-01-17 10:18:06.447885,90155,kolkata,False,True,10,False,False,Legitimate
+867,User_043,2025-01-17 10:18:07.447885,25727,mumbai,False,False,10,False,False,Legitimate
+870,User_043,2025-01-17 14:55:54.447885,33633,mumbai,False,False,14,False,False,Legitimate
+875,User_043,2025-01-17 17:18:20.447885,74631,mumbai,False,False,17,False,False,Legitimate
+877,User_043,2025-01-17 17:31:33.447885,206408,mumbai,True,False,17,False,False,Legitimate
+874,User_043,2025-01-17 17:37:09.447885,271032,mumbai,True,False,17,False,False,Legitimate
+871,User_043,2025-01-17 20:35:03.447885,17437,mumbai,False,False,20,False,False,Legitimate
+880,User_043,2025-01-18 02:51:04.447885,46894,mumbai,False,False,2,True,False,Legitimate
+879,User_043,2025-01-18 07:53:18.447885,2371,mumbai,False,False,7,False,False,Legitimate
+878,User_043,2025-01-18 12:42:04.447885,73998,mumbai,False,False,12,False,False,Legitimate
+881,User_044,2025-01-16 12:55:24.447885,119688,mumbai,True,False,12,False,False,Legitimate
+883,User_044,2025-01-16 16:14:13.447885,73135,mumbai,False,False,16,False,False,Legitimate
+884,User_044,2025-01-16 18:45:32.447885,51470,deharadhun,False,False,18,False,False,Legitimate
+882,User_044,2025-01-16 21:10:42.447885,478783,mumbai,True,False,21,False,False,Legitimate
+893,User_044,2025-01-17 04:21:00.447885,31700,mumbai,False,False,4,True,False,Legitimate
+885,User_044,2025-01-17 07:06:43.447885,56814,mumbai,False,False,7,False,False,Legitimate
+892,User_044,2025-01-17 07:28:44.447885,98001,mumbai,False,False,7,False,False,Legitimate
+891,User_044,2025-01-17 08:35:32.447885,50711,kolkata,False,True,8,False,False,Legitimate
+886,User_044,2025-01-17 09:20:26.447885,442780,delhi,True,True,9,False,True,Fraudulent
+887,User_044,2025-01-17 14:23:36.447885,25133,mumbai,False,False,14,False,False,Legitimate
+889,User_044,2025-01-17 15:27:25.447885,23179,mumbai,False,False,15,False,False,Legitimate
+894,User_044,2025-01-17 17:02:41.447885,48308,mumbai,False,False,17,False,False,Legitimate
+890,User_044,2025-01-17 17:11:08.447885,9148,mumbai,False,False,17,False,False,Legitimate
+888,User_044,2025-01-17 18:27:50.447885,1497,mumbai,False,False,18,False,False,Legitimate
+895,User_044,2025-01-17 19:44:51.447885,8297,mumbai,False,False,19,False,False,Legitimate
+896,User_044,2025-01-17 22:06:02.447885,99148,noida,False,True,22,False,False,Legitimate
+900,User_044,2025-01-18 03:15:46.447885,10436,mumbai,False,False,3,True,False,Legitimate
+899,User_044,2025-01-18 07:12:29.447885,66599,mumbai,False,False,7,False,False,Legitimate
+898,User_044,2025-01-18 18:10:13.447885,36015,mumbai,False,False,18,False,False,Legitimate
+897,User_044,2025-01-18 20:02:19.447885,15218,mumbai,False,False,20,False,False,Legitimate
+904,User_045,2025-01-16 02:03:13.447885,71621,delhi,False,False,2,True,False,Legitimate
+905,User_045,2025-01-16 06:10:18.447885,21879,delhi,False,False,6,False,False,Legitimate
+902,User_045,2025-01-16 12:55:02.447885,57932,gwalior,False,False,12,False,False,Legitimate
+901,User_045,2025-01-16 14:55:30.447885,37969,delhi,False,False,14,False,False,Legitimate
+906,User_045,2025-01-16 16:03:01.447885,22540,kolkata,False,True,16,False,False,Legitimate
+903,User_045,2025-01-16 19:31:22.447885,69065,delhi,False,False,19,False,False,Legitimate
+909,User_045,2025-01-17 02:40:29.447885,15303,delhi,False,False,2,True,False,Legitimate
+918,User_045,2025-01-17 06:17:21.447885,53742,delhi,False,False,6,False,False,Legitimate
+915,User_045,2025-01-17 09:10:11.447885,90444,delhi,False,False,9,False,False,Legitimate
+908,User_045,2025-01-17 10:05:31.447885,67156,delhi,False,False,10,False,False,Legitimate
+913,User_045,2025-01-17 12:54:15.447885,17983,delhi,False,False,12,False,False,Legitimate
+910,User_045,2025-01-17 13:23:09.447885,15063,delhi,False,False,13,False,False,Legitimate
+917,User_045,2025-01-17 13:52:23.447885,41532,delhi,False,False,13,False,False,Legitimate
+907,User_045,2025-01-17 14:39:14.447885,39148,delhi,False,False,14,False,False,Legitimate
+911,User_045,2025-01-17 15:52:22.447885,73659,gwalior,False,True,15,False,False,Legitimate
+916,User_045,2025-01-17 18:41:48.447885,43742,noida,False,True,18,False,False,Legitimate
+914,User_045,2025-01-17 19:11:52.447885,52229,delhi,False,False,19,False,False,Legitimate
+912,User_045,2025-01-17 19:15:25.447885,65361,delhi,False,False,19,False,False,Legitimate
+919,User_045,2025-01-18 17:41:17.447885,26555,delhi,False,False,17,False,False,Legitimate
+920,User_045,2025-01-18 19:46:38.447885,40253,delhi,False,False,19,False,False,Legitimate
+924,User_046,2025-01-16 02:39:32.447885,152202,new york,True,False,2,True,True,Fraudulent
+925,User_046,2025-01-16 02:41:34.447885,67544,new york,False,False,2,True,False,Legitimate
+927,User_046,2025-01-16 04:50:40.447885,24441,new york,False,False,4,True,False,Legitimate
+921,User_046,2025-01-16 06:49:18.447885,33289,new york,False,False,6,False,False,Legitimate
+922,User_046,2025-01-16 06:53:13.447885,4510,new york,False,False,6,False,False,Legitimate
+926,User_046,2025-01-16 08:34:03.447885,53636,new york,False,False,8,False,False,Legitimate
+923,User_046,2025-01-16 12:07:02.447885,26131,bhopal,False,True,12,False,False,Legitimate
+928,User_046,2025-01-16 19:43:08.447885,51354,new york,False,False,19,False,False,Legitimate
+929,User_046,2025-01-17 02:12:32.447885,22531,new york,False,False,2,True,False,Legitimate
+932,User_046,2025-01-17 02:58:16.447885,2609,new york,False,False,2,True,False,Legitimate
+939,User_046,2025-01-17 12:30:33.447885,72394,mumbai,False,True,12,False,False,Legitimate
+936,User_046,2025-01-17 12:36:16.447885,282355,new york,True,False,12,False,False,Legitimate
+934,User_046,2025-01-17 13:00:55.447885,26766,new york,False,False,13,False,False,Legitimate
+931,User_046,2025-01-17 14:23:34.447885,54198,delhi,False,True,14,False,False,Legitimate
+937,User_046,2025-01-17 15:16:12.447885,167013,bhopal,True,True,15,False,True,Fraudulent
+933,User_046,2025-01-17 17:15:22.447885,20900,new york,False,False,17,False,False,Legitimate
+930,User_046,2025-01-17 17:31:33.447885,6804,new york,False,False,17,False,False,Legitimate
+935,User_046,2025-01-17 17:41:15.447885,59001,new york,False,False,17,False,False,Legitimate
+938,User_046,2025-01-17 22:44:47.447885,39995,new york,False,False,22,False,False,Legitimate
+940,User_046,2025-01-18 12:57:35.447885,17029,new york,False,False,12,False,False,Legitimate
+942,User_047,2025-01-16 07:40:05.447885,19522,deharadhun,False,False,7,False,False,Legitimate
+947,User_047,2025-01-16 10:48:30.447885,90737,deharadhun,False,False,10,False,False,Legitimate
+943,User_047,2025-01-16 12:28:28.447885,45250,deharadhun,False,False,12,False,False,Legitimate
+941,User_047,2025-01-16 14:52:09.447885,47219,deharadhun,False,False,14,False,False,Legitimate
+944,User_047,2025-01-16 14:55:59.447885,56362,deharadhun,False,False,14,False,False,Legitimate
+946,User_047,2025-01-16 15:49:38.447885,47515,deharadhun,False,False,15,False,False,Legitimate
+945,User_047,2025-01-16 21:46:22.447885,2205,deharadhun,False,False,21,False,False,Legitimate
+956,User_047,2025-01-17 03:12:41.447885,53221,deharadhun,False,False,3,True,False,Legitimate
+953,User_047,2025-01-17 03:43:52.447885,57107,delhi,False,True,3,True,True,Fraudulent
+951,User_047,2025-01-17 06:34:25.447885,36800,deharadhun,False,False,6,False,False,Legitimate
+954,User_047,2025-01-17 09:54:21.447885,38665,deharadhun,False,False,9,False,False,Legitimate
+950,User_047,2025-01-17 11:01:46.447885,62952,deharadhun,False,False,11,False,False,Legitimate
+957,User_047,2025-01-17 11:38:25.447885,79411,deharadhun,False,False,11,False,False,Legitimate
+948,User_047,2025-01-17 11:53:54.447885,7709,deharadhun,False,False,11,False,False,Legitimate
+960,User_047,2025-01-17 12:25:41.447885,49028,deharadhun,False,False,12,False,False,Legitimate
+958,User_047,2025-01-17 12:30:47.447885,94923,deharadhun,False,False,12,False,False,Legitimate
+959,User_047,2025-01-17 14:13:53.447885,87895,mumbai,False,True,14,False,False,Legitimate
+952,User_047,2025-01-17 17:10:34.447885,248757,deharadhun,True,False,17,False,False,Legitimate
+955,User_047,2025-01-17 20:04:23.447885,25115,deharadhun,False,False,20,False,False,Legitimate
+949,User_047,2025-01-17 22:59:20.447885,82284,deharadhun,False,False,22,False,False,Legitimate
+962,User_048,2025-01-16 04:27:08.447885,39895,jaipur,False,False,4,True,False,Legitimate
+965,User_048,2025-01-16 06:00:00.447885,20639,jaipur,False,False,6,False,False,Legitimate
+963,User_048,2025-01-16 11:55:57.447885,332481,jaipur,True,False,11,False,False,Legitimate
+964,User_048,2025-01-16 22:17:24.447885,12014,jaipur,False,False,22,False,False,Legitimate
+961,User_048,2025-01-16 22:59:07.447885,19680,jaipur,False,False,22,False,False,Legitimate
+968,User_048,2025-01-17 04:17:52.447885,21026,jaipur,False,False,4,True,False,Legitimate
+973,User_048,2025-01-17 07:12:23.447885,74323,jaipur,False,False,7,False,False,Legitimate
+966,User_048,2025-01-17 07:55:03.447885,68721,jaipur,False,False,7,False,False,Legitimate
+974,User_048,2025-01-17 09:22:14.447885,99196,jaipur,False,False,9,False,False,Legitimate
+970,User_048,2025-01-17 09:41:00.447885,7400,jaipur,False,False,9,False,False,Legitimate
+972,User_048,2025-01-17 11:35:29.447885,403370,jaipur,True,False,11,False,False,Legitimate
+976,User_048,2025-01-17 12:55:38.447885,67195,jaipur,False,False,12,False,False,Legitimate
+978,User_048,2025-01-17 13:12:34.447885,391027,jaipur,True,False,13,False,False,Legitimate
+971,User_048,2025-01-17 13:43:34.447885,60425,jaipur,False,False,13,False,False,Legitimate
+975,User_048,2025-01-17 17:37:18.447885,95154,jaipur,False,False,17,False,False,Legitimate
+969,User_048,2025-01-17 17:37:37.447885,98213,bhopal,False,True,17,False,False,Legitimate
+967,User_048,2025-01-17 17:58:22.447885,37277,jaipur,False,False,17,False,False,Legitimate
+977,User_048,2025-01-17 18:49:10.447885,22673,jaipur,False,False,18,False,False,Legitimate
+979,User_048,2025-01-18 15:34:00.447885,28276,jaipur,False,False,15,False,False,Legitimate
+980,User_048,2025-01-18 17:45:45.447885,81901,jaipur,False,False,17,False,False,Legitimate
+983,User_049,2025-01-16 03:40:25.447885,8107,delhi,False,False,3,True,False,Legitimate
+981,User_049,2025-01-16 04:10:37.447885,73989,delhi,False,False,4,True,False,Legitimate
+984,User_049,2025-01-16 06:48:17.447885,56321,new york,False,False,6,False,False,Legitimate
+982,User_049,2025-01-16 10:10:54.447885,80023,delhi,False,False,10,False,False,Legitimate
+996,User_049,2025-01-17 02:47:14.447885,73894,delhi,False,False,2,True,False,Legitimate
+994,User_049,2025-01-17 06:43:44.447885,2926,delhi,False,False,6,False,False,Legitimate
+991,User_049,2025-01-17 08:12:47.447885,10305,delhi,False,False,8,False,False,Legitimate
+990,User_049,2025-01-17 09:06:45.447885,76216,delhi,False,False,9,False,False,Legitimate
+995,User_049,2025-01-17 09:18:45.447885,42323,delhi,False,False,9,False,False,Legitimate
+986,User_049,2025-01-17 09:23:38.447885,25091,delhi,False,False,9,False,False,Legitimate
+997,User_049,2025-01-17 09:43:58.447885,75789,delhi,False,False,9,False,False,Legitimate
+998,User_049,2025-01-17 16:33:36.447885,44455,delhi,False,False,16,False,False,Legitimate
+993,User_049,2025-01-17 16:54:27.447885,14058,delhi,False,False,16,False,False,Legitimate
+989,User_049,2025-01-17 17:00:14.447885,138883,delhi,True,False,17,False,False,Legitimate
+987,User_049,2025-01-17 17:57:30.447885,99910,mumbai,False,True,17,False,False,Legitimate
+992,User_049,2025-01-17 19:35:05.447885,22553,delhi,False,False,19,False,False,Legitimate
+988,User_049,2025-01-17 21:27:07.447885,78894,delhi,False,False,21,False,False,Legitimate
+985,User_049,2025-01-17 21:58:40.447885,97129,delhi,False,False,21,False,False,Legitimate
+999,User_049,2025-01-18 18:43:32.447885,70240,delhi,False,False,18,False,False,Legitimate
+1000,User_049,2025-01-18 20:39:22.447885,9559,delhi,False,False,20,False,False,Legitimate
